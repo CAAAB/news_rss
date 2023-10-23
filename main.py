@@ -1,6 +1,7 @@
 import feedparser
 import json
 import os
+from datetime import datetime
 
 def fetch_rss_data(url):
     feed = feedparser.parse(url)
@@ -17,6 +18,12 @@ def save_to_file(data, filename):
     with open(filename, 'w') as f:
         json.dump(data, f, indent=4)
 
+def read_existing_data(filename):
+    if os.path.exists(filename):
+        with open(filename, 'r') as f:
+            return json.load(f)
+    return []
+
 def main():
     rss_urls = {
         'LeFigaro': 'https://www.lefigaro.fr/rss/figaro_actualites.xml',
@@ -24,8 +31,16 @@ def main():
     }
 
     for source, url in rss_urls.items():
-        data = fetch_rss_data(url)
-        save_to_file({source: data}, f"{source}.json")
+        today = datetime.now().strftime("%Y%m%d")
+        filename = f"{source}_{today}.json"
+        
+        existing_data = read_existing_data(filename)
+        existing_links = [entry['link'] for entry in existing_data]
+
+        new_data = fetch_rss_data(url)
+        updated_data = existing_data + [entry for entry in new_data if entry['link'] not in existing_links]
+
+        save_to_file(updated_data, filename)
 
 if __name__ == '__main__':
     main()
