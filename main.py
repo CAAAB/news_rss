@@ -30,6 +30,10 @@ def main():
     rss_urls = {
         'LeFigaro': 'https://www.lefigaro.fr/rss/figaro_actualites.xml',
         'LeMonde': 'https://www.lemonde.fr/en/rss/une.xml',
+        'FranceInfo': 'https://www.francetvinfo.fr/titres.rss',
+        'MediaPart': 'https://www.mediapart.fr/articles/feed',
+        'Liberation': 'https://www.liberation.fr/arc/outboundfeeds/rss-all/collection/accueil-une/?outputType=xml',
+        '20Minutes': 'https://partner-feeds.20min.ch/rss/20minutes',
         # Add more RSS URLs here
     }
 
