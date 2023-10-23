@@ -29,6 +29,7 @@ def read_existing_data(filename):
 def main():
     rss_urls = {
         'LeFigaro': 'https://www.lefigaro.fr/rss/figaro_actualites.xml',
+        'LeMonde': 'https://www.lemonde.fr/en/rss/une.xml',
         # Add more RSS URLs here
     }
 
