@@ -15,12 +15,14 @@ def fetch_rss_data(url):
     return entries
 
 def save_to_file(data, filename):
-    with open(filename, 'w') as f:
+    os.makedirs("data", exist_ok=True)
+    with open(os.path.join("data", filename), 'w') as f:
         json.dump(data, f, indent=4)
 
 def read_existing_data(filename):
-    if os.path.exists(filename):
-        with open(filename, 'r') as f:
+    filepath = os.path.join("data", filename)
+    if os.path.exists(filepath):
+        with open(filepath, 'r') as f:
             return json.load(f)
     return []
 
