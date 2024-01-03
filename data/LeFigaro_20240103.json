@@ -153,5 +153,40 @@
         "title": "O\u00f9 voyager en 2024 ? Les 15 destinations de l\u2019ann\u00e9e du Figaro",
         "summary": "LA S\u00c9LECTION DU FIGARO - Parce qu\u2019ils accueilleront des \u00e9v\u00e9nements exceptionnels, parce qu\u2019ils s\u2019ouvrent au tourisme ou tout simplement parce qu\u2019ils nous ont surpris, \u00e9bouriff\u00e9s ou \u00e9merveill\u00e9s, voici notre palmar\u00e8s des villes, r\u00e9gions et pays du monde o\u00f9 mettre le cap cette ann\u00e9e. Attention les yeux !",
         "link": "https://www.lefigaro.fr/voyages/ou-voyager-en-2024-les-15-destinations-de-l-annee-du-figaro-20240103"
+    },
+    {
+        "title": "Guerre en Ukraine: les \u00e9changes de prisonniers, une arme pour le Kremlin",
+        "summary": "REPORTAGE - Le nombre actuel de prisonniers de guerre ukrainiens, r\u00e9partis dans \u00abune centaine de prisons russes\u00bb, est impossible \u00e0 d\u00e9terminer mais se compte en milliers. Il est en tout cas sup\u00e9rieur \u00e0 la somme des soldats russes faits prisonniers par l\u2019Ukraine.",
+        "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-echanges-de-prisonniers-une-arme-pour-le-kremlin-20240102"
+    },
+    {
+        "title": "Airbus, Kretinsky, dette...Atos fait le point sur tous ses dossiers chauds",
+        "summary": "Le groupe ouvre une phase de due diligence avec Airbus en vue de la cession des activit\u00e9s cybers\u00e9curit\u00e9 et big data, envisage de r\u00e9duire l\u2019augmentation de capital pr\u00e9vu pour Eviden, et a engag\u00e9 des discussions avec ses partenaires bancaires pour garantir sa p\u00e9rennit\u00e9 financi\u00e8re.",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/airbus-kretinsky-dette-atos-fait-le-point-sur-tous-ses-dossiers-chauds-20240103"
+    },
+    {
+        "title": "Royaume-Uni : les jeunes m\u00e9decins lancent une gr\u00e8ve d'une longueur in\u00e9dite",
+        "summary": "Alors que le syst\u00e8me de sant\u00e9 public britannique peine \u00e0 reprendre son souffle, \u00e0 la suite des multiples gr\u00e8ves des m\u00e9decins et infirmi\u00e8res, la mobilisation se poursuit faute d\u2019accord \u00abcr\u00e9dible sur les salaires\u00bb selon les syndicats.",
+        "link": "https://www.lefigaro.fr/conjoncture/royaume-uni-les-jeunes-medecins-lancent-une-greve-d-une-longueur-inedite-20240103"
+    },
+    {
+        "title": "Collision \u00e0 l'a\u00e9roport de Tokyo : la compagnie JAL affirme que son avion \u00e9tait autoris\u00e9 \u00e0 atterrir",
+        "summary": "Les \u00e9changes radio avec la tour de contr\u00f4le de l\u2019a\u00e9roport \u00e9cout\u00e9s \u00e0 la suite de la collision survenue ce mardi \u00e0 l\u2019a\u00e9roport de Tokyo r\u00e9v\u00e8lent de nouvelles informations sur les pr\u00e9mices de l\u2019accident.",
+        "link": "https://www.lefigaro.fr/international/collision-a-l-aeroport-de-tokyo-la-compagnie-jal-affirme-que-son-avion-etait-autorise-a-atterrir-20240103"
+    },
+    {
+        "title": "Japon : au moins 5 morts dans la collision entre deux avions \u00e0 l'a\u00e9roport de Tokyo",
+        "summary": "EN IMAGES - Une explosion a retenti avant qu\u2019une tra\u00een\u00e9e de flammes ne se r\u00e9pande derri\u00e8re un appareil, selon des images d\u2019une cha\u00eene de t\u00e9l\u00e9vision publique. Cinq personnes ont trouv\u00e9 la mort.",
+        "link": "https://www.lefigaro.fr/international/japon-un-avion-de-ligne-a-heurte-un-autre-appareil-a-l-aeroport-international-de-tokyo-haneda-20240102"
+    },
+    {
+        "title": "S\u00e9isme au Japon : le centre du pays touch\u00e9 par plus de 200 secousses, le bilan s\u2019alourdit \u00e0 62 morts",
+        "summary": "\u00abDes d\u00e9g\u00e2ts tr\u00e8s importants ont \u00e9t\u00e9 confirm\u00e9s, incluant de nombreuses victimes, des b\u00e2timents effondr\u00e9s et des incendies\u00bb, selon le premier ministre Fumio Kishida.",
+        "link": "https://www.lefigaro.fr/international/japon-le-centre-du-pays-touche-par-155-seismes-le-bilan-s-alourdit-a-30-morts-20240102"
+    },
+    {
+        "title": "Data scientist, architecte cyber, product owner... La bonne strat\u00e9gie pour r\u00e9ussir en tant que freelance",
+        "summary": "NOS CONSEILS - Les professionnels de l'IT sont des profils tr\u00e8s recherch\u00e9s et ils sont de plus en plus nombreux \u00e0 se lancer en freelance. Un choix qui peut s'av\u00e9rer payant, \u00e0 condition de bien l\u2019anticiper.",
+        "link": "https://www.lefigaro.fr/conjoncture/data-scientist-architecte-cyber-product-owner-la-bonne-strategie-pour-reussir-en-tant-que-freelance-20240103"
     }
 ]
