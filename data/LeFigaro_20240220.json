@@ -383,5 +383,35 @@
         "title": "Logements sociaux : \u00eates-vous concern\u00e9 par les emplacements r\u00e9serv\u00e9s par la ville de Paris ?",
         "summary": "FIG DATA - Le Figaro a cartographi\u00e9 le millier d\u2019emplacements inscrits dans le futur plan local d\u2019urbanisation (PLU) de la capitale afin de favoriser la mixit\u00e9 sociale.",
         "link": "https://www.lefigaro.fr/actualite-france/logements-sociaux-etes-vous-concernes-par-les-emplacements-reserves-par-la-ville-de-paris-20240220"
+    },
+    {
+        "title": "Affaire Navalny : ce qu\u2019une autopsie pourrait r\u00e9v\u00e9ler sur sa mort",
+        "summary": "D\u00c9CRYPTAGE - L'opposant politique est mort vendredi dans une prison de l'Arctique, o\u00f9 il purgeait une peine de 19 ans de prison. Ses proches accusent les autorit\u00e9s russes de retenir son corps pour masquer des preuves, ce que ces derni\u00e8res r\u00e9futent.",
+        "link": "https://www.lefigaro.fr/international/affaire-navalny-ce-qu-une-autopsie-pourrait-reveler-sur-sa-mort-20240220"
+    },
+    {
+        "title": "Dasha Navalnaya, la fille d'Alexe\u00ef Navalny, 23 ans et la r\u00e9sistance en h\u00e9ritage",
+        "summary": "La fille de l\u2019opposant au pouvoir poutinien marche dans les pas de son p\u00e8re, dont la mort a \u00e9t\u00e9 annonc\u00e9e vendredi. Portrait express d\u2019une jeune femme de trempe.",
+        "link": "https://madame.lefigaro.fr/societe/actu/dasha-navalnaya-la-fille-d-alexei-navalny-23-ans-et-la-resistance-en-heritage-20240220"
+    },
+    {
+        "title": "\u00abEntendre son t\u00e9moignage est important\u00bb: Judith Godr\u00e8che va \u00eatre re\u00e7ue au S\u00e9nat",
+        "summary": "Apr\u00e8s avoir port\u00e9 plainte contre les r\u00e9alisateurs Beno\u00eet Jacquot et Jacques Doillon pour violences sexuelles et physiques pendant son adolescence, l\u2019actrice sera entendue le 29 f\u00e9vrier par la d\u00e9l\u00e9gation aux droits des femmes.",
+        "link": "https://www.lefigaro.fr/cinema/entendre-son-temoignage-est-important-judith-godreche-va-etre-recue-au-senat-20240220"
+    },
+    {
+        "title": "Darmanin demande un rapport apr\u00e8s la publication d\u2019une vid\u00e9o montrant des CRS offrir une m\u00e9daille \u00e0 Bardella",
+        "summary": "La t\u00eate de liste RN pour les \u00e9lections europ\u00e9ennes a rendu visite lundi aux policiers de la CRS-6, sur leur lieu de cantonnement \u00e0 Saint-Laurent-du-Var, dans le cadre d'un d\u00e9placement de campagne sur le th\u00e8me de l'immigration.",
+        "link": "https://www.lefigaro.fr/nice/darmanin-demande-un-rapport-apres-la-publication-d-une-video-montrant-des-crs-offrir-une-medaille-a-bardella-20240220"
+    },
+    {
+        "title": "Bouches-du-Rh\u00f4ne : un homme sauvagement agress\u00e9 au tournevis pour une cigarette",
+        "summary": "La victime, qui a re\u00e7u plusieurs coups, s\u2019est fait perforer un poumon dans une rue de Marignane. L\u2019agresseur a rapidement pris la fuite.",
+        "link": "https://www.lefigaro.fr/marseille/bouches-du-rhone-un-homme-sauvagement-agresse-au-tournevis-pour-une-cigarette-20240220"
+    },
+    {
+        "title": "L\u2019Amoc, le syst\u00e8me de courants de l\u2019Atlantique nord, est-il sur le point de s\u2019effondrer ?",
+        "summary": "ANALYSE. - Dans une nouvelle \u00e9tude parue dans Science Advances, des chercheurs n\u00e9erlandais mod\u00e9lisent l\u2019arr\u00eat complet du syst\u00e8me de courants oc\u00e9aniques qui r\u00e9gule le climat de l\u2019h\u00e9misph\u00e8re Nord.",
+        "link": "https://www.lefigaro.fr/sciences/l-amoc-le-systeme-de-courants-de-l-atlantique-nord-est-il-sur-le-point-de-s-effondrer-20240220"
     }
 ]
