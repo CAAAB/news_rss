@@ -203,5 +203,20 @@
         "title": "Navalny's mother says she was able to see her son's body",
         "summary": "In a video released by Navalny's team, Lyudmila Navalnaya adds that officials are pressuring her into a 'secret' burial for the Russian opponent who died in prison last week.",
         "link": "https://www.lemonde.fr/en/international/article/2024/02/22/navalny-s-mother-says-she-was-able-to-see-her-son-s-body_6549972_4.html"
+    },
+    {
+        "title": "The thousand and one ways to derail artificial intelligence",
+        "summary": "Researchers are acting as hackers to circumvent safeguards on generative AI. They target flaws in three areas: data, models and learning. Using data poisoning, clever or even invisible prompts, they trick the software. Is AI vulnerable?",
+        "link": "https://www.lemonde.fr/en/science/article/2024/02/22/the-thousand-and-one-ways-to-derail-artificial-intelligence_6550435_10.html"
+    },
+    {
+        "title": "Biden calls Putin a 'crazy SOB'",
+        "summary": "The American president has regularly had harsh words for his Russian counterpart since Moscow's invasion of Ukraine two years ago. Putin responded that he would prefer the more 'predictable' Biden over Donald Trump in the White House.",
+        "link": "https://www.lemonde.fr/en/united-states/article/2024/02/22/biden-calls-putin-a-crazy-sob_6550269_133.html"
+    },
+    {
+        "title": "The dark side of AI: Chatbots developed by cyber criminals",
+        "summary": "From viruses and phishing to fake websites and jailbreaks, an American team has studied the conversational agents and methods developed by the ever-growing organized crime industry.",
+        "link": "https://www.lemonde.fr/en/science/article/2024/02/22/the-dark-side-of-ai-chatbots-developed-by-cyber-criminals_6550302_10.html"
     }
 ]
