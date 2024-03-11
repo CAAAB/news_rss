@@ -128,5 +128,35 @@
         "title": "Oscars 2024: d\u00e9couvrez le palmar\u00e8s complet",
         "summary": "EN IMAGES - Favori des Oscars, Oppenheimer a remport\u00e9 sans surprise sept statuettes devan\u00e7ant Pauvres cr\u00e9atures, qui repart avec quatre prix. Anatomie d'une chute est prim\u00e9 pour son sc\u00e9nario.",
         "link": "https://www.lefigaro.fr/cinema/ceremonie-oscars/oscars-2024-decouvrez-le-palmares-complet-20240311"
+    },
+    {
+        "title": "Fin de vie : \u00abIl sera plus rapide d\u2019avoir acc\u00e8s \u00e0 un m\u00e9decin pour demander une aide \u00e0 mourir que pour \u00eatre soign\u00e9\u00bb, d\u00e9nonce Claire Fourcade",
+        "summary": "La m\u00e9decin et pr\u00e9sidente de la Soci\u00e9t\u00e9 Fran\u00e7aise des Soins Palliatifs (SFAP) s\u2019inqui\u00e8te du projet de loi sur l\u2019aide \u00e0 mourir et rappelle que \u00ab500 personnes par jour n'ont pas acc\u00e8s aux soins palliatifs en France\u00bb.",
+        "link": "https://www.lefigaro.fr/actualite-france/fin-de-vie-il-sera-plus-rapide-d-avoir-acces-a-un-medecin-pour-demander-une-aide-a-mourir-que-pour-etre-soigne-denonce-claire-fourcade-20240311"
+    },
+    {
+        "title": "Le vomi de Depardieu, un acteur nu, la robe d\u00e9chir\u00e9e d\u2019Emma Stone... les moments les plus dr\u00f4les des Oscars",
+        "summary": "De l'interpr\u00e9tation r\u00e9ussie de I'm Just Ken de Ryan Gosling aux nombreux tacles du pr\u00e9sentateur Jimmy Kimmel, voici les meilleurs moments des Oscars dans une c\u00e9r\u00e9monie tr\u00e8s balis\u00e9e.",
+        "link": "https://www.lefigaro.fr/cinema/ceremonie-oscars/le-vomi-de-depardieu-un-acteur-nu-la-robe-dechiree-d-emma-stone-les-moments-les-plus-droles-des-oscars-20240311"
+    },
+    {
+        "title": "Fort-de-France : plusieurs incendies d\u00e9clench\u00e9s apr\u00e8s l'interpellation d'un \u00abactiviste\u00bb",
+        "summary": "Herv\u00e9 Pinto, un \u00abactiviste\u00bb auto-revendiqu\u00e9, a \u00e9t\u00e9 interpell\u00e9 dimanche pour avoir viol\u00e9 par deux fois son contr\u00f4le judiciaire. Des appels avaient \u00e9t\u00e9 lanc\u00e9s pour le soutenir.",
+        "link": "https://www.lefigaro.fr/actualite-france/fort-de-france-plusieurs-incendies-declenches-apres-l-interpellation-d-un-activiste-20240311"
+    },
+    {
+        "title": "Les dessous d'un r\u00e9seau de trafic de drogue marseillais qui r\u00e9alisait 50.000 euros de chiffre d'affaires quotidien",
+        "summary": "Une vingtaine de personnes qui composent une grande partie du r\u00e9seau de trafic de stup\u00e9fiants de la cit\u00e9 des Oliviers A comparaissent \u00e0 partir de ce lundi devant le tribunal correctionnel de la cit\u00e9 phoc\u00e9enne. L\u2019enqu\u00eate a mis en lumi\u00e8re derri\u00e8re ce trafic une organisation aussi lucrative que structur\u00e9e .",
+        "link": "https://www.lefigaro.fr/marseille/les-dessous-d-un-reseau-de-trafic-de-drogue-marseillais-qui-realisait-50-000-euros-de-chiffre-d-affaires-quotidien-20240311"
+    },
+    {
+        "title": "XV de France: \u00abJ'ai pass\u00e9 des semaines pas tr\u00e8s rigolotes\u00bb, avoue Maxime Lucu",
+        "summary": "Le demi de m\u00eal\u00e9e de l\u2019UBB, tr\u00e8s critiqu\u00e9 depuis le d\u00e9but du Tournoi, est entr\u00e9 en jeu \u00e0 la 70e minute lors de la victoire des Bleus \u00e0 Cardiff dimanche.",
+        "link": "https://www.lefigaro.fr/sports/rugby/6-nations/xv-de-france-j-ai-passe-des-semaines-pas-tres-rigolotes-avoue-maxime-lucu-20240311"
+    },
+    {
+        "title": "Jean-Pierre Robin: \u00abMayotte, l\u2019une des six fronti\u00e8res o\u00f9 l\u2019\u00e9cart de niveaux de vie est le plus \u00e9lev\u00e9 au monde\u00bb",
+        "summary": "D\u00e9partement le plus pauvre de France, l\u2019\u00eele de Mayotte fait pourtant figure d\u2019eldorado compar\u00e9 \u00e0 son voisin, l\u2019archipel des Comores",
+        "link": "https://www.lefigaro.fr/conjoncture/jean-pierre-robin-mayotte-l-une-des-six-frontieres-ou-l-ecart-de-niveaux-de-vie-est-le-plus-eleve-au-monde-20240310"
     }
 ]
