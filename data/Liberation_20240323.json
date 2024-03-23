@@ -148,5 +148,45 @@
         "title": "Dix articles qui nous ont r\u00e9confort\u00e9s cette semaine",
         "summary": "L\u2019actualit\u00e9 est souvent sinistre, oui, mais il y a malgr\u00e9 tout des raisons d\u2019esp\u00e9rer. \u00abLib\u00e9ration\u00bb vous le prouve avec 10 articles embrassant une information r\u00e9jouissante et curieuse.",
         "link": "https://www.liberation.fr/economie/medias/dix-articles-qui-nous-ont-reconfortes-cette-semaine-20240323_6PZNY33OTNDQLJUFLVXZ2ZEDGU/"
+    },
+    {
+        "title": "Kate Middleton et le cancer\u00a0: l\u2019impossible vie priv\u00e9e de la famille royale britannique",
+        "summary": "Apr\u00e8s des semaines de sp\u00e9culations, la femme du prince William a fini par annoncer dans une vid\u00e9o qu\u2019elle souffrait d\u2019un cancer. Une transparence forc\u00e9e qui illustre l\u2019acc\u00e8s que pense avoir une partie des Britanniques \u00e0 l\u2019intimit\u00e9 de la monarchie.",
+        "link": "https://www.liberation.fr/international/europe/royaume-uni-limpossible-vie-privee-de-la-famille-royale-20240323_H53TYVY4PVFUDFF7RFJI7ZYHDY/"
+    },
+    {
+        "title": "Pr\u00e9sidentielle s\u00e9n\u00e9galaise\u00a0: Bassirou Diomaye Faye, une campagne tambour battant",
+        "summary": "Principal candidat de l\u2019opposition pour le scrutin dont le premier tour se d\u00e9roule dimanche, l\u2019ancien syndicaliste de 43\u00a0ans a encha\u00een\u00e9 les meetings jour et nuit, une semaine apr\u00e8s \u00eatre sorti de prison, s\u00e9duisant une jeunesse en d\u00e9sh\u00e9rence.",
+        "link": "https://www.liberation.fr/international/afrique/presidentielle-senegalaise-bassirou-diomaye-faye-une-campagne-tambour-battant-20240323_QBDXBVRNS5DGLDDANOCSHYDVNQ/"
+    },
+    {
+        "title": "TotalEnergies a 100\u00a0ans\u00a0: grim\u00e9s en clowns, des militants d\u2019Extinction Rebellion m\u00e8nent des actions dans toute la France",
+        "summary": "A l\u2019occasion de l\u2019anniversaire du groupe et pour d\u00e9noncer son empreinte climatique, une soixantaine de militants d\u00e9guis\u00e9s en clown sont entr\u00e9s ce samedi 23\u00a0mars dans la raffinerie du g\u00e9ant p\u00e9trolier \u00e0 Donges (Loire-Atlantique). Des actions ont \u00e9galement lieu \u00e0 La D\u00e9fense ou Clermont-Ferrand.",
+        "link": "https://www.liberation.fr/environnement/climat/totalenergies-a-100-ans-grimes-en-clowns-des-militants-dextinction-rebellion-menent-des-actions-dans-toute-la-france-20240323_CJ6EM5KJDVEDVB5NQL7AOEXGKU/"
+    },
+    {
+        "title": "Au Maroc, la s\u00e9cheresse \u00abcritique\u00bb met les agriculteurs \u00e0 rude \u00e9preuve",
+        "summary": "Dans la plaine de Berrechid, consid\u00e9r\u00e9e comme le \u00abgrenier c\u00e9r\u00e9alier\u00bb du royaume, les agriculteurs font face au risque d\u2019une grave p\u00e9nurie d\u2019eau \u00e0 cause d\u2019une pluviom\u00e9trie d\u00e9ficitaire et d\u2019activit\u00e9s agricoles excessives.",
+        "link": "https://www.liberation.fr/international/afrique/au-maroc-la-secheresse-critique-met-les-agriculteurs-a-rude-epreuve-20240323_SNI4K4HVQBCZLCYYIZG2YOA5WE/"
+    },
+    {
+        "title": "Le crush, ou l\u2019art d\u2019aimer en secret",
+        "summary": "N\u00e9e dans les cours d\u2019\u00e9cole, l\u2019expression engage bien plus qu\u2019un changement de vocabulaire, mais plut\u00f4t d\u2019une attitude. Dans un ouvrage, la sociologue Christine D\u00e9trez diss\u00e8que ce ph\u00e9nom\u00e8ne avec empathie.",
+        "link": "https://www.liberation.fr/lifestyle/intimites/le-crush-ou-lart-daimer-en-secret-20240323_6V5TI4UC7REAZIGBLVCTQCSGOE/"
+    },
+    {
+        "title": "\u00abL\u2019arabe est une langue sophistiqu\u00e9e dans la d\u00e9signation du sentiment amoureux\u00bb",
+        "summary": "L\u2019Institut du monde arabe tient ce week-end ses dixi\u00e8mes Journ\u00e9es de l\u2019histoire. Pour l\u2019occasion, la directrice des actions culturelles du mus\u00e9e, Fr\u00e9d\u00e9rique Mehdi, d\u00e9taille le programme charg\u00e9 et complet de l\u2019\u00e9venement.",
+        "link": "https://www.liberation.fr/culture/livres/larabe-est-une-langue-sophistiquee-dans-la-designation-du-sentiment-amoureux-20240323_CF7EEUX2WNC3RFAWAUC3WPNOZE/"
+    },
+    {
+        "title": "Guadeloupe\u00a0: 130\u00a0000 foyers priv\u00e9s d\u2019eau courante apr\u00e8s des actes de \u00abmalveillance\u00bb",
+        "summary": "Plusieurs infrastructures du r\u00e9seau de distribution d\u2019eau dans l\u2019archipel ont \u00e9t\u00e9 endommag\u00e9es, alors qu\u2019une gr\u00e8ve touche depuis plusieurs jours le Syndicat mixte de gestion des eaux et assainissement de la Guadeloupe.",
+        "link": "https://www.liberation.fr/societe/ville/guadeloupe-130-000-foyers-prives-deau-courante-apres-des-actes-de-malveillance-20240323_VSZ2SC34DVB7TLVOBF2AYMLYSM/"
+    },
+    {
+        "title": "Eric Sadin, philosophe: \u00abPas besoin d\u2019\u00eatre devin pour saisir que quantit\u00e9 d\u2019emplois \u00e0 haute comp\u00e9tence cognitive vont \u00eatre broy\u00e9s par l\u2019IA\u00bb",
+        "summary": "\u00abLe Monde\u00bb a sell\u00e9 un accord avec le fondateur de Chat GPT, insistant sur le fait que l\u2019IA sera utilis\u00e9e comme un \u00aboutil d\u2019assistance \u00e0 la production \u00e9ditoriale\u00bb, notion assez vague pour affecter sensiblement la cr\u00e9ation des articles. Au-del\u00e0, la liste des emplois amen\u00e9s \u00e0 dispara\u00eetre dans le tertiaire pourrait \u00eatre longue, s\u2019inqui\u00e8te le philosophe.",
+        "link": "https://www.liberation.fr/idees-et-debats/eric-sadin-philosophe-pas-besoin-detre-devin-pour-saisir-que-quantite-demplois-a-haute-competence-cognitive-vont-etre-broyes-par-lia-20240323_DY3OWJBBV5D4PL7PFUEMWRUSW4/"
     }
 ]
