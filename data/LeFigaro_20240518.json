@@ -438,5 +438,50 @@
         "title": "Les six rues les plus gourmandes de Paris",
         "summary": "LA S\u00c9LECTION DU FIGARO - Situ\u00e9es dans diff\u00e9rents quartiers, elles concentrent les bonnes tables, les p\u00e2tisseries ou les \u00e9piceries. Suivez notre guide pour les arpenter.",
         "link": "https://www.lefigaro.fr/gastronomie/les-six-rues-les-plus-gourmandes-de-paris-20240516"
+    },
+    {
+        "title": "Guerre Isra\u00ebl-Hamas : Tsahal annonce avoir rapatri\u00e9 le corps d'un otage r\u00e9cup\u00e9r\u00e9 \u00e0 Gaza",
+        "summary": "L'Unrwa, l'agence de l'ONU pour les r\u00e9fugi\u00e9s palestiniens, indique de son c\u00f4t\u00e9 que 800.000 r\u00e9fugi\u00e9s palestiniens ont \u00e9t\u00e9 d\u00e9plac\u00e9s depuis le 6 mai.",
+        "link": "https://www.lefigaro.fr/international/gaza-800-000-personnes-ont-fui-les-combats-a-rafah-selon-l-unrwa-20240518"
+    },
+    {
+        "title": "Selena Gomez hu\u00e9e, Audiard ovationn\u00e9, Charlotte Gainsbourg culott\u00e9e... C\u2019est la fi\u00e8vre du samedi soir sur les marches de Cannes",
+        "summary": "PLAN\u00c8TE MARCHES - Jour 5. Tr\u00e8s attendu, le nouveau film de Jacques Audiard, Emilia P\u00e9rez, est arriv\u00e9 ce samedi sur la Croisette. Mais une atmosph\u00e8re \u00e9lectrique a r\u00e9gn\u00e9 sur le tapis rouge. La faute \u00e0 l\u2019actrice Selena Gomez, au casting de cette com\u00e9die musicale dantesque en comp\u00e9tition pour la Palme d\u2019or.",
+        "link": "https://madame.lefigaro.fr/celebrites/actu-people/selena-gomez-huee-audiard-ovationne-charlotte-gainsbourg-culottee-c-est-la-fievre-du-samedi-soir-sur-les-marches-de-cannes-20240518"
+    },
+    {
+        "title": "JO Paris 2024 : parcours, horaires et relayeurs... O\u00f9 voir la flamme ce dimanche 19 mai ?",
+        "summary": "Cela fait onze jours que la flamme olympique est arriv\u00e9e \u00e0 Marseille. Ce dimanche, elle prendra de l\u2019altitude au pic du Midi de Bigorre avant d\u2019arriver \u00e0 Tarbes.",
+        "link": "https://www.lefigaro.fr/sports/jeux-olympiques/jo-paris-2024-parcours-horaires-et-relayeurs-ou-voir-la-flamme-ce-dimanche-19-mai-20240518"
+    },
+    {
+        "title": "Nord : il commande un wrap chez McDonald's et croque dans un escargot",
+        "summary": "Le directeur du restaurant franchis\u00e9 situ\u00e9 \u00e0 Caudry a annonc\u00e9 que des \u00abinvestigations\u00bb allaient \u00eatre men\u00e9es pour comprendre comment cette b\u00eate s\u2019est retrouv\u00e9e dans un wrap.",
+        "link": "https://www.lefigaro.fr/animaux/nord-il-commande-un-wrap-chez-mcdonald-s-et-croque-dans-un-escargot-20240518"
+    },
+    {
+        "title": "Chine : un journaliste am\u00e9ricain d\u00e9couvre sur une image satellite un in\u00e9dit porte-drones",
+        "summary": "Ce porte-a\u00e9ronefs l\u00e9ger construit dans un chantier naval chinois le long du fleuve Yangts\u00e9 repr\u00e9sente une nouvelle illustration de l\u2019innovation chinoise en mati\u00e8re a\u00e9ronavale.",
+        "link": "https://www.lefigaro.fr/international/un-journaliste-americain-decouvre-sur-une-image-satellite-un-inedit-porte-drones-chinois-20240518"
+    },
+    {
+        "title": "David Lisnard : \u00abL\u2019IA plus humaine que l'ENA\u00bb",
+        "summary": "TRIBUNE - Le maire de Cannes a pos\u00e9 \u00e0 ChatGPT la question qu\u2019une journaliste de Elle a adress\u00e9 \u00e0 Emmanuel Macron, sur la relance de la natalit\u00e9. Il en conclut que l\u2019intelligence artificielle formule des propositions plus sens\u00e9es que le m\u00e9lange de d\u00e9magogie et de technocratie du discours pr\u00e9sidentiel.",
+        "link": "https://www.lefigaro.fr/vox/politique/david-lisnard-l-ia-plus-humaine-que-l-ena-20240517"
+    },
+    {
+        "title": "Minirobe en dentelle transparente et lunettes noires, Charlotte Gainsbourg d\u00e9couvre ses jambes interminables \u00e0 Cannes",
+        "summary": "Ce 18 mai, l\u2019actrice fran\u00e7aise montait les marches de la 77e c\u00e9r\u00e9monie du Festival de Cannes en robe transparente tr\u00e8s courte.",
+        "link": "https://madame.lefigaro.fr/style/news/minirobe-en-dentelle-transparente-et-lunettes-noires-charlotte-gainsbourg-decouvre-ses-jambes-interminables-a-cannes-20240518"
+    },
+    {
+        "title": "S\u00e9par\u00e9 de Charlotte Casiraghi, Dimitri Rassam foule le tapis rouge de Cannes au bras de sa m\u00e8re Carole Bouquet",
+        "summary": "Pour le tapis rouge du film Megalopolis, le 16 mai, au 77e Festival de Cannes, l\u2019actrice \u00e9tait accompagn\u00e9e de son fils a\u00een\u00e9. Elle portait une robe noire Chanel, fid\u00e8le de la maison de couture fran\u00e7aise.",
+        "link": "https://madame.lefigaro.fr/style/news/separe-de-charlotte-casiraghi-dimitri-rassam-foule-le-tapis-rouge-de-cannes-au-bras-de-sa-mere-carole-bouquet-20240517"
+    },
+    {
+        "title": "Demi Moore et ses cheveux jusqu\u2019aux fesses arrivent \u00e0 Cannes",
+        "summary": "VID\u00c9O - C\u2019est par\u00e9e d'une chevelure XXL et ultralisse, \u00e9tendue jusqu'\u00e0 ses hanches que l\u2019actrice am\u00e9ricaine a foul\u00e9 le tapis rouge cannois, ce vendredi 17 mai.",
+        "link": "https://madame.lefigaro.fr/beaute/cheveux/demi-moore-et-ses-cheveux-jusqu-aux-fesses-arrivent-a-cannes-20240517"
     }
 ]
