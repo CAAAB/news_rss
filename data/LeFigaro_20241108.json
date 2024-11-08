@@ -93,5 +93,35 @@
         "title": "\u00abLa France ne fabrique pas que des sacs de luxe et du champagne\u00bb : le salon du \u00abMade in France\u00bb ouvre ses portes ce vendredi",
         "summary": "100.000 visiteurs sont attendus jusqu'\u00e0 lundi au Parc des Expositions de Paris pour visiter un millier de stands mettant en avant la fabrication locale.",
         "link": "https://www.lefigaro.fr/societes/la-france-ne-fabrique-pas-que-des-sacs-de-luxe-et-du-champagne-le-salon-du-made-in-france-ouvre-ses-portes-ce-vendredi-20241108"
+    },
+    {
+        "title": "\u00c0 Marseille, un stand de tir ferm\u00e9 par la mairie pour des motifs de s\u00e9curit\u00e9 apr\u00e8s plusieurs plaintes des riverains",
+        "summary": "Mis en cause par plusieurs rapports techniques et d\u2019alertes de riverains, le stand de tir des Trois-Lucs ne pourra rouvrir au public. Une d\u00e9cision qui a provoqu\u00e9 l\u2019ire du maire des 11e et 12e arrondissements de la ville.",
+        "link": "https://www.lefigaro.fr/marseille/a-marseille-un-stand-de-tir-ferme-par-la-mairie-pour-des-motifs-de-securite-apres-plusieurs-plaintes-des-riverains-20241108"
+    },
+    {
+        "title": "Guerre en Ukraine : au moins 25 bless\u00e9s apr\u00e8s une frappe russe \u00e0 Kharkiv",
+        "summary": "Une attaque de drones a aussi cibl\u00e9 dans la nuit la ville portuaire d\u2019Odessa, dans le sud du pays, et sa banlieue, causant au moins deux bless\u00e9s, a annonc\u00e9 de son c\u00f4t\u00e9 Oleg Kiper, le gouverneur de la r\u00e9gion.",
+        "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-au-moins-25-blesses-apres-une-frappe-russe-a-kharkiv-20241108"
+    },
+    {
+        "title": "La Cor\u00e9e du Sud a organis\u00e9 des exercices militaires apr\u00e8s plusieurs tirs de missiles nord-cor\u00e9ens",
+        "summary": "Ces exercices surviennent une semaine apr\u00e8s que la Cor\u00e9e du Nord a test\u00e9 un nouveau missile balistique intercontinental (ICBM) \u00e0 combustible solide, pr\u00e9sent\u00e9 par Pyongyang comme le plus avanc\u00e9 de son arsenal.",
+        "link": "https://www.lefigaro.fr/flash-actu/la-coree-du-sud-a-organise-des-exercices-militaires-apres-plusieurs-tirs-de-missiles-nord-coreens-20241108"
+    },
+    {
+        "title": "La drogue, carburant du crime",
+        "summary": "L\u2019\u00c9DITORIAL DU FIGARO - Les consommateurs de drogue, venus de tous les milieux, sont les complices involontaires des mafias qui imposent leurs lois et d\u00e9fient l\u2019\u00c9tat.",
+        "link": "https://www.lefigaro.fr/vox/societe/la-drogue-carburant-du-crime-20241107"
+    },
+    {
+        "title": "Lutte contre le narcotrafic : faut-il r\u00e9primer davantage les consommateurs ?",
+        "summary": "",
+        "link": "https://www.lefigaro.fr/actualite-france/lutte-contre-le-narcotrafic-faut-il-reprimer-davantage-les-consommateurs-20241107"
+    },
+    {
+        "title": "Quelles sont les meilleures assurances pr\u00e9voyance\u00a0? Notre classement 2024-2025",
+        "summary": "EXCLUSIF - Invalidit\u00e9, maladie, d\u00e9c\u00e8s, perte d\u2019emploi... L\u2019assurance pr\u00e9voyance est con\u00e7ue pour se prot\u00e9ger financi\u00e8rement en cas de coup dur ou mettre \u00e0 l\u2019abri sa famille. Nous avons compar\u00e9 22 acteurs du secteur.",
+        "link": "https://www.lefigaro.fr/conso/quelles-sont-les-meilleures-assurances-prevoyance-notre-classement-2024-2025-20241108"
     }
 ]
