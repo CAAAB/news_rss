@@ -98,5 +98,85 @@
         "title": "Le gouvernement d\u00e9cr\u00e8te le blocage des prix des produits de grande consommation \u00e0 Mayotte",
         "summary": "L\u2019\u00eele est en \u00e9tat de \u00abcalamit\u00e9 naturelle exceptionnelle\u00bb apr\u00e8s le passage du cyclone Chido.",
         "link": "https://www.lefigaro.fr/conjoncture/le-gouvernement-decrete-le-blocage-des-prix-des-produits-de-grande-consommation-a-mayotte-20241219"
+    },
+    {
+        "title": "Au c\u0153ur du Centre de crises sanitaires, qui tente de panser les plaies du syst\u00e8me de sant\u00e9 de Mayotte",
+        "summary": "REPORTAGE - Les autorit\u00e9s fran\u00e7aises s\u2019organisent pour assurer les soins sur l\u2019\u00eele ravag\u00e9e samedi par le cyclone Chido. H\u00f4pital de campagne, r\u00e9a mobile, m\u00e9dicaments, les besoins sont tr\u00e8s divers.",
+        "link": "https://sante.lefigaro.fr/social/sante-publique/au-coeur-du-centre-de-crises-sanitaires-qui-tente-de-panser-les-plaies-du-systeme-de-sante-de-mayotte-20241219"
+    },
+    {
+        "title": "\u00c0 Mayotte, Emmanuel Macron confront\u00e9 \u00e0 la d\u00e9tresse et \u00e0 la col\u00e8re des habitants",
+        "summary": "REPORTAGE - Malgr\u00e9 les aides promises par Emmanuel Macron, les Mahorais ont exprim\u00e9 un sentiment d\u2019abandon face aux p\u00e9nuries d\u2019eau et de vivres.",
+        "link": "https://www.lefigaro.fr/actualite-france/a-mayotte-emmanuel-macron-confronte-a-la-detresse-et-a-la-colere-des-habitants-20241219"
+    },
+    {
+        "title": "Gouvernement, retraites, Macron... Ce qu\u2019il faut retenir de l\u2019interview de Fran\u00e7ois Bayrou sur France 2",
+        "summary": "Apr\u00e8s avoir re\u00e7u les chefs des forces politiques (hors LFI et RN) ce jeudi \u00e0 Matignon en vue de former un gouvernement d\u2019ici \u00e0 No\u00ebl, le B\u00e9arnais a accord\u00e9 son premier entretien t\u00e9l\u00e9vis\u00e9.",
+        "link": "https://www.lefigaro.fr/politique/gouvernement-retraites-macron-ce-qu-il-faut-retenir-de-l-interview-de-francois-bayrou-sur-france-2-20241219"
+    },
+    {
+        "title": "Retraites : Fran\u00e7ois Bayrou pr\u00eat \u00e0 rouvrir la bo\u00eete de Pandore",
+        "summary": "ANALYSE - Tout en affirmant qu\u2019il ne veut pas suspendre la r\u00e9forme, le premier ministre s\u2019est dit pr\u00eat \u00e0 rouvrir le dossier, y compris sur le report de l\u2019\u00e2ge \u00e0 64 ans. Un jeu dangereux.",
+        "link": "https://www.lefigaro.fr/politique/retraites-francois-bayrou-pret-a-rouvrir-la-boite-de-pandore-20241219"
+    },
+    {
+        "title": "\u00abIl faut pr\u00e9server les entreprises\u00bb : Bayrou souhaite rediscuter de la taxe sur les superprofits",
+        "summary": "Le nouveau gouvernement pourrait ne pas reprendre telle quelle la surtaxe sur les grandes entreprises du budget 2025 de Michel Barnier. \u00abLes grandes entreprises sont le tissu \u00e9conomique de la France\u00bb, a affirm\u00e9 le premier ministre.",
+        "link": "https://www.lefigaro.fr/conjoncture/il-faut-preserver-les-entreprises-bayrou-souhaite-rediscuter-de-la-taxe-sur-les-superprofits-20241219"
+    },
+    {
+        "title": "\u00ab\u00a0Apr\u00e8s le \u201cnouveau monde\u201d, c\u2019est le retour des dinosaures\u00a0\u00bb\u00a0: entre Fran\u00e7ois Bayrou et les macronistes, le choc des cultures",
+        "summary": "D\u00c9CRYPTAGE - Chantres du \u00abrenouvellement&#160;des pratiques\u00bb, les troupes de Gabriel Attal s\u2019\u00e9tonnent du style du nouveau premier ministre et se m\u00e9fient de certaines de ses propositions, comme le r\u00e9tablissement du cumul des mandats.",
+        "link": "https://www.lefigaro.fr/politique/apres-le-nouveau-monde-c-est-le-retour-des-dinosaures-entre-francois-bayrou-et-les-macronistes-le-choc-des-cultures-20241219"
+    },
+    {
+        "title": "Gouvernement : Fran\u00e7ois Bayrou toujours dans l\u2019impasse",
+        "summary": "D\u00c9CRYPTAGE - Le premier ministre a propos\u00e9 jeudi aux forces politiques, hors RN et LFI, d\u2019entrer au gouvernement. Pas convaincue malgr\u00e9 un geste d\u2019ouverture sur les retraites, la gauche le menace de censure.",
+        "link": "https://www.lefigaro.fr/politique/sa-methode-est-aussi-claire-qu-une-notice-ikea-francois-bayrou-toujours-dans-l-impasse-au-moment-de-former-son-gouvernement-20241219"
+    },
+    {
+        "title": "Affaire Lina : l\u2019adolescente est vraisemblablement morte \u00e9trangl\u00e9e \u00e0 l\u2019aide d\u2019un sac en tissu",
+        "summary": "\u00ab\u00c0 ce jour, tous les \u00e9l\u00e9ments sont en faveur d\u2019une action solitaire de la part de Samuel Gonin\u00bb, principal suspect dans l\u2019affaire, qui s\u2019est suicid\u00e9 en juillet 2024, d\u2019apr\u00e8s le procureur de la R\u00e9publique de Strasbourg.",
+        "link": "https://www.lefigaro.fr/faits-divers/affaire-lina-l-adolescente-a-vraisemblablement-ete-etranglee-a-l-aide-d-un-sac-en-tissu-20241219"
+    },
+    {
+        "title": "Les \u00c9tats-Unis ont expuls\u00e9 plus de 270.000 migrants en un an",
+        "summary": "",
+        "link": "https://www.lefigaro.fr/flash-actu/les-etats-unis-ont-expulse-plus-de-270-000-migrants-en-un-an-20241220"
+    },
+    {
+        "title": "Les \u00c9tats-Unis se rapprochent de la paralysie budg\u00e9taire apr\u00e8s l'\u00e9chec d'un nouveau texte",
+        "summary": "Les \u00e9lus r\u00e9publicains, pourtant majoritaires \u00e0 la chambre basse, avaient soumis au vote cette nouvelle proposition au lendemain du torpillage par Donald Trump et Elon Musk d\u2019un pr\u00e9c\u00e9dent accord n\u00e9goci\u00e9 avec les d\u00e9mocrates qui aurait \u00e9vit\u00e9 aux \u00c9tats-Unis un \u00abshutdown\u00bb, juste avant No\u00ebl.",
+        "link": "https://www.lefigaro.fr/conjoncture/les-etats-unis-se-rapprochent-de-la-paralysie-budgetaire-apres-l-echec-d-un-nouveau-texte-20241220"
+    },
+    {
+        "title": "Joe Biden sera en Italie en janvier, quelques jours avant la fin de son mandat",
+        "summary": "",
+        "link": "https://www.lefigaro.fr/flash-actu/joe-biden-sera-en-italie-en-janvier-quelques-jours-avant-la-fin-de-son-mandat-20241220"
+    },
+    {
+        "title": "Quelles seraient les cons\u00e9quences d'un \u00abshutdown\u00bb aux \u00c9tats-Unis ?",
+        "summary": "\u00c0 l\u2019image de la France, d\u00e9mocrates et r\u00e9publicains am\u00e9ricains se d\u00e9chirent autour de la question budg\u00e9taire, faisant craindre de nombreux effets n\u00e9fastes.",
+        "link": "https://www.lefigaro.fr/international/quelles-seraient-les-consequences-d-un-shutdown-aux-etats-unis-20241219"
+    },
+    {
+        "title": "Luigi Mangione, le tueur pr\u00e9sum\u00e9 d'un patron de l'assurance sant\u00e9, incarc\u00e9r\u00e9 \u00e0 New York",
+        "summary": "Devant la justice de l\u2019\u00c9tat de New York, il encourt au maximum la prison \u00e0 perp\u00e9tuit\u00e9 sans lib\u00e9ration conditionnelle. Devant la justice f\u00e9d\u00e9rale, les faits sont passibles de la peine de mort.",
+        "link": "https://www.lefigaro.fr/international/luigi-mangione-le-tueur-presume-d-un-patron-de-l-assurance-sante-incarcere-a-new-york-20241219"
+    },
+    {
+        "title": "\u00abChaque pilule \u00e9tait vendue 100 dollars en Arabie saoudite\u00bb: la Syrie de Bachar el-Assad, un narco-\u00c9tat shoot\u00e9 au Captagon",
+        "summary": "REPORTAGE - La chute du r\u00e9gime a r\u00e9v\u00e9l\u00e9 l\u2019ampleur de la production de cette drogue de synth\u00e8se, dont le dictateur abreuvait le Moyen-Orient.",
+        "link": "https://www.lefigaro.fr/international/chaque-pilule-etait-vendue-100-dollars-en-arabie-saoudite-la-syrie-de-bachar-el-assad-un-narco-etat-shoote-au-captagon-20241219"
+    },
+    {
+        "title": "Syrie : des milliers de Syriens manifestent en soutien aux forces kurdes et contre Ankara",
+        "summary": "LE POINT SUR LA SITUATION - les manifestants ont brandi le drapeau de l\u2019ind\u00e9pendance syrienne \u00e0 trois \u00e9toiles, symbole du soul\u00e8vement de 2011 adopt\u00e9 par HTS, aux c\u00f4t\u00e9s des drapeaux de l\u2019Administration autonome kurde et de son arm\u00e9e de facto, les Forces D\u00e9mocratiques Syriennes (FDS)..",
+        "link": "https://www.lefigaro.fr/international/syrie-le-groupe-islamiste-htc-doit-tirer-les-lecons-de-l-isolement-des-talibans-selon-blinken-20241219"
+    },
+    {
+        "title": "Manbij, cette ville strat\u00e9gique du nord par laquelle les rebelles esp\u00e8rent unifier la Syrie",
+        "summary": "REPORTAGE - Les combats ont repris entre les rebelles de l\u2019Arm\u00e9e nationale syrienne (ANS), groupe de suppl\u00e9tifs de la Turquie, et les miliciens kurdes autour de la ville de Manbij.",
+        "link": "https://www.lefigaro.fr/international/manbij-cette-ville-strategique-du-nord-par-laquelle-les-rebelles-esperent-unifier-la-syrie-20241219"
     }
 ]
