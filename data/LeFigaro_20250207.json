@@ -143,5 +143,45 @@
         "title": "M\u00e9t\u00e9o du vendredi 7 f\u00e9vrier : des chutes de neige attendues en plaine",
         "summary": "Les nuages dominent une nouvelle fois sur les trois quarts de la France avec un ressenti froid sur un tiers nord. La neige tombe \u00e9galement sur la partie sud-est du Massif central au-dessus de 1200 m\u00e8tres.",
         "link": "https://www.lefigaro.fr/meteo/meteo-du-vendredi-7-fevrier-des-chutes-de-neige-attendues-en-plaine-20250206"
+    },
+    {
+        "title": "Clandestins : le plan de bataille de Bruno Retailleau pour intensifier la lutte contre les fili\u00e8res criminelles",
+        "summary": "INFO LE FIGARO - En d\u00e9placement \u00e0 Lognes vendredi, le ministre de l\u2019Int\u00e9rieur va annoncer la cr\u00e9ation d\u2019une cellule de renseignement criminel et \u00e9quiper les enqu\u00eateurs d\u2019outils ultramodernes.",
+        "link": "https://www.lefigaro.fr/actualite-france/clandestins-le-plan-de-bataille-de-retailleau-pour-intensifier-la-lutte-contre-les-filieres-criminelles-20250207"
+    },
+    {
+        "title": "Intelligence artificielle : les \u00c9mirats construiront en France un data center g\u00e9ant et investiront 30 \u00e0 50 milliards d\u2019euros",
+        "summary": "Un \u00abcampus\u00bb ax\u00e9 sur l\u2019intelligence artificielle, avec un data center g\u00e9ant d\u2019une capacit\u00e9 de calcul pouvant aller jusqu\u2019\u00e0 un gigawatt, va \u00eatre cr\u00e9\u00e9 par le pays de la p\u00e9ninsule arabique.",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/intelligence-artificielle-les-emirats-construiront-en-france-un-data-center-geant-et-investiront-30-a-50-milliards-d-euros-20250206"
+    },
+    {
+        "title": "Amazon va d\u00e9penser plus de 100 milliards de dollars dans le cloud et l\u2019IA en 2025",
+        "summary": "Cette annonce survient alors que la concurrence s\u2019est acc\u00e9l\u00e9r\u00e9e dans le secteur de l\u2019intelligence artificielle, avec l\u2019entr\u00e9e en sc\u00e8ne de la start-up chinoise DeepSeek et son mod\u00e8le d\u2019IA \u00e0 bas co\u00fbt.",
+        "link": "https://www.lefigaro.fr/societes/amazon-va-depenser-plus-de-100-milliards-de-dollars-dans-le-cloud-et-l-ia-en-2025-20250206"
+    },
+    {
+        "title": "La start-up fran\u00e7aise Mistral AI lance son assistant Le Chat sur iPhone et Android pour \u00abrendre l\u2019IA populaire\u00bb",
+        "summary": "EXCLUSIF - \u00c0 l\u2019occasion du sommet sur l\u2019IA, la start-up veut diffuser ses produits aupr\u00e8s du grand public. Arriv\u00e9e de DeepSeek, contrats commerciaux, rumeurs sur la Bourse... Le cofondateur et directeur g\u00e9n\u00e9ral Arthur Mensch d\u00e9taille sa strat\u00e9gie au Figaro.",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/mistral-ai-lance-son-assistant-le-chat-sur-iphone-et-android-pour-rendre-l-ia-populaire-20250206"
+    },
+    {
+        "title": "IA \u00e0 l'\u00e9cole : \u00c9lisabeth Borne promet charte, investissements et formations",
+        "summary": "La ministre de l\u2019\u00c9ducation nationale souhaite mettre une intelligence artificielle \u00e0 disposition des professeurs. Une charte\u00bb pour une utilisation \u00e9thique de l\u2019IA \u00e0 l\u2019\u00e9cole devrait \u00eatre publi\u00e9e \u00abau printemps\u00bb.",
+        "link": "https://www.lefigaro.fr/actualite-france/ia-a-l-ecole-elisabeth-borne-promet-charte-investissements-et-formations-20250206"
+    },
+    {
+        "title": "La FNSEA perd du terrain face \u00e0 la Coordination Rurale",
+        "summary": "L\u2019alliance FNSEA-JA reste la premi\u00e8re force syndicale agricole du pays mais son avance est grignot\u00e9e par la Coordination Rurale qui gagne une quinzaine de chambres d\u2019agriculture.",
+        "link": "https://www.lefigaro.fr/actualite-france/la-fnsea-perd-du-terrain-face-a-la-coordination-rurale-20250206"
+    },
+    {
+        "title": "Neuf sarcophages enfouis depuis 1300 ans retrouv\u00e9s au c\u0153ur de Bordeaux",
+        "summary": "La Ville de Bordeaux n\u2019a pas fini de d\u00e9voiler ses secrets les plus anciens. Lors des travaux pr\u00e9paratoires de v\u00e9g\u00e9talisation de la place Renaudel, des fouilles pr\u00e9ventives lanc\u00e9es par la m\u00e9tropole viennent de r\u00e9v\u00e9ler une part m\u00e9connue du site.",
+        "link": "https://www.lefigaro.fr/bordeaux/neuf-sarcophages-enfouis-depuis-1300-ans-retrouves-au-coeur-de-bordeaux-20250207"
+    },
+    {
+        "title": "PSG-Monaco: Arsenal, aussi bien que Mbapp\u00e9, Danemark...Cinq choses \u00e0 savoir sur Mika Biereth, le nouveau \u00abph\u00e9nom\u00e8ne\u00bb qui d\u00e9fie Paris",
+        "summary": "Le Danois s\u2019est illustr\u00e9 la semaine derni\u00e8re en inscrivant un tripl\u00e9 contre l\u2019AJ Auxerre en quelques minutes. L\u2019ASM a peut-\u00eatre trouv\u00e9 un nouveau crack.",
+        "link": "https://www.lefigaro.fr/sports/football/ligue-1/psg-monaco-arsenal-aussi-bien-que-mbappe-danemark-cinq-choses-a-savoir-sur-mika-biereth-le-nouveau-phenomene-qui-defie-paris-20250207"
     }
 ]
