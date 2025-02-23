@@ -208,5 +208,40 @@
         "title": "\u00ab\u200aCes livres sont charg\u00e9s d\u2019une valeur proph\u00e9tique\u200a\u00bb: Boualem Sansal, la plume visionnaire",
         "summary": "Dans un livre passionnant, l\u2019universitaire Lisa Romain raconte l\u2019homme engag\u00e9 et l\u2019\u00e9crivain \u00e0 la prose vertigineuse, emprisonn\u00e9 par le r\u00e9gime alg\u00e9rien.",
         "link": "https://www.lefigaro.fr/livres/ces-livres-sont-charges-d-une-valeur-prophetique-boualem-sansal-la-plume-visionnaire-20250223"
+    },
+    {
+        "title": "Frites, gnocchi, gratin dauphinois: voyage autour de la pomme de terre en 8 adresses parisiennes",
+        "summary": "LA S\u00c9LECTION DU FIGARO - L\u2019humble tubercule inspire de d\u00e9licieux plats, fran\u00e7ais comme \u00e9trangers, \u00e0 d\u00e9guster dans la capitale.",
+        "link": "https://www.lefigaro.fr/gastronomie/frites-gnocchi-gratin-dauphinois-voyage-autour-de-la-pomme-de-terre-en-8-adresses-parisiennes-20250220"
+    },
+    {
+        "title": "Guerre en Ukraine : le Kremlin juge \u00abprometteur\u00bb le dialogue entre Poutine et Trump",
+        "summary": "LE POINT SUR LA SITUATION - Moscou a \u00e9galement affirm\u00e9 que la Russie ne \u00abvendra jamais\u00bb les territoires ukrainiens occup\u00e9s, soit environ 20% de l\u2019Ukraine.",
+        "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-le-kremlin-juge-prometteur-le-dialogue-entre-poutine-et-trump-20250223"
+    },
+    {
+        "title": "\u00abJ\u2019ai sign\u00e9 un contrat avec le minist\u00e8re de la D\u00e9fense, pas de l\u2019Attaque\u00bb : les confidences d\u2019un officier d\u00e9serteur de l\u2019arm\u00e9e russe",
+        "summary": "T\u00c9MOIGNAGE - Alexandre Sterliadnikov, officier russe de 26 ans, a combattu six mois en Ukraine. En septembre 2022, il a profit\u00e9 d\u2019une permission pour d\u00e9serter et demander l\u2019asile en France. Trois ans apr\u00e8s le premier feu, il t\u00e9moigne pour Le Figaro.",
+        "link": "https://www.lefigaro.fr/international/j-ai-signe-un-contrat-avec-le-ministere-de-la-defense-pas-de-l-attaque-les-confidences-d-un-officier-deserteur-de-l-armee-russe-20250223"
+    },
+    {
+        "title": "Cisjordanie : Isra\u00ebl vide des camps de r\u00e9fugi\u00e9s et interdit leur retour",
+        "summary": "Trois camps de r\u00e9fugi\u00e9s du nord de la Cisjordanie ont \u00e9t\u00e9 vid\u00e9s, selon une annonce du ministre isra\u00e9lien de la D\u00e9fense Isra\u00ebl Katz.",
+        "link": "https://www.lefigaro.fr/international/cisjordanie-israel-vide-des-camps-de-refugies-et-interdit-leur-retour-20250223"
+    },
+    {
+        "title": "SNCF : le trafic des TER interrompu \u00e0 Lille en raison d'un vol de \u00abplusieurs centaines de m\u00e8tres\u00bb de c\u00e2bles",
+        "summary": "\u00abQuelques TGV sont impact\u00e9s. La reprise du trafic est pr\u00e9vue dans l\u2019apr\u00e8s-midi\u00bb, a pr\u00e9cis\u00e9 la compagnie ferroviaire sur X.",
+        "link": "https://www.lefigaro.fr/conjoncture/sncf-le-trafic-des-ter-interrompu-a-lille-en-raison-d-un-vol-de-plusieurs-centaines-de-metres-de-cables-20250223"
+    },
+    {
+        "title": "Carn\u00e9 par Cl\u00e9ment Leroy, nouveau sanctuaire des amateurs de b\u0153uf d\u2019exception",
+        "summary": "CRITIQUE GASTRONOMIQUE - L\u2019ex-lieutenant de Guy Savoy orchestre une chic officine carnivore au c\u0153ur de son Chiberta. R\u00e9serv\u00e9 aux amateurs de viande .",
+        "link": "https://www.lefigaro.fr/gastronomie/carne-par-clement-leroy-nouveau-sanctuaire-des-amateurs-de-boeuf-d-exception-20250221"
+    },
+    {
+        "title": "Salon de l\u2019agriculture : tomates, c\u00e9r\u00e9ales\u2026 Que repr\u00e9sentent les \u00e9changes agricoles entre la France et le Maroc ?",
+        "summary": "Invit\u00e9 d\u2019honneur du rendez-vous annuel du monde agricole, inaugur\u00e9 ce samedi, le Maroc est un partenaire commercial important pour la France. Sur l\u2019agroalimentaire, le royaume est le neuvi\u00e8me fournisseur de l\u2019Hexagone.",
+        "link": "https://www.lefigaro.fr/conjoncture/salon-de-l-agriculture-tomates-cereales-que-representent-les-echanges-agricoles-entre-la-france-et-le-maroc-20250223"
     }
 ]
