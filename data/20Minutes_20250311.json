@@ -863,5 +863,55 @@
         "title": "La science attaqu\u00e9e, les chercheurs fuient vers l'Europe",
         "summary": "Face aux attaques du gouvernement am\u00e9ricain contre la science, \u00abdes chercheurs tapent \u00e0 la porte de l'Institut Curie\u00bb, selon un de ces dirigeants.",
         "link": "https://www.20min.ch/fr/story/etats-unis-la-science-attaquee-les-chercheurs-fuient-vers-l-europe-103299315"
+    },
+    {
+        "title": "Une panne informatique majeure frappe l'a\u00e9roport de Gen\u00e8ve",
+        "summary": "Tout le syst\u00e8me informatique de l'infrastructure a\u00e9roportuaire est touch\u00e9. Y compris le wi-fi et les caisses des boutiques. Le trafic a\u00e9rien pourrait \u00eatre interrompu.",
+        "link": "https://www.20min.ch/fr/story/geneve-une-panne-informatique-majeure-frappe-l-aeroport-de-geneve-103299372"
+    },
+    {
+        "title": "\u00abElle est l\u00e0!\u00bb Quand la guerre en Ukraine atteint Moscou",
+        "summary": "Avec l'attaque de drones massive lanc\u00e9e par l'Ukraine mardi matin sur la banlieue de Moscou, les habitants prennent conscience que la guerre est arriv\u00e9e chez eux.",
+        "link": "https://www.20min.ch/fr/story/attaque-en-russie-elle-est-la-quand-la-guerre-en-ukraine-atteint-moscou-103299413"
+    },
+    {
+        "title": "On sait ce qui a intoxiqu\u00e9 une soixantaine de mangeurs de kebabs",
+        "summary": "La semaine derni\u00e8re, de nombreux clients d'un marchand de M\u00f6hlin (AG) avaient \u00e9t\u00e9 malades apr\u00e8s avoir consomm\u00e9 ses kebabs. C'est la sauce cocktail qui est en cause.",
+        "link": "https://www.20min.ch/fr/story/argovie-on-sait-ce-qui-a-intoxique-une-soixantaine-de-mangeurs-de-kebabs-103299375"
+    },
+    {
+        "title": "Un s\u00e9nateur soutient l'Ukraine, Musk le traite de \u00abtra\u00eetre\u00bb",
+        "summary": "En retour, le milliardaire d'extr\u00eame droite a \u00e9t\u00e9 qualifi\u00e9 de \u00abl\u00e2che \u00e9gocentrique\u00bb par un s\u00e9nateur de Californie.",
+        "link": "https://www.20min.ch/fr/story/etats-unis-un-senateur-soutient-l-ukraine-musk-le-traite-de-traitre-103299360"
+    },
+    {
+        "title": "Un gardien du Bar\u00e7a d\u00e9ment l'infid\u00e9lit\u00e9 de sa femme",
+        "summary": "D\u00e9j\u00e0 gravement bless\u00e9 en septembre, Marc-Andr\u00e9 ter Stegen s'est r\u00e9cemment s\u00e9par\u00e9 de sa femme. Mais la presse catalane s'en m\u00eale.",
+        "link": "https://www.20min.ch/fr/story/football-un-gardien-du-barca-dement-l-infidelite-de-sa-femme-103299300"
+    },
+    {
+        "title": "Danger pour les abeilles suisses: si vous voyez ce nid, il faut agir",
+        "summary": "Le frelon asiatique invasif se r\u00e9pand rapidement en Suisse. Ces pr\u00e9dateurs d\u00e9vorent chaque ann\u00e9e des milliers d\u2019abeilles domestiques. C\u2019est maintenant le meilleur moment de l\u2019ann\u00e9e pour endiguer leur impact.",
+        "link": "https://www.20min.ch/fr/video/suisse-danger-pour-les-abeilles-suisses-si-vous-voyez-ce-nid-il-faut-agir-103299288"
+    },
+    {
+        "title": "L\u2019arm\u00e9e allemande manque \u00abtoujours de tout\u00bb, malgr\u00e9 des progr\u00e8s",
+        "summary": "La Bundeswehr manque toujours de personnel, de mat\u00e9riel et d'infrastructures modernes, selon un rapport pr\u00e9sent\u00e9 mardi, qui note toutefois une l\u00e9g\u00e8re am\u00e9lioration.",
+        "link": "https://www.20min.ch/fr/story/defense-l-armee-allemande-manque-toujours-de-tout-malgre-des-progres-103299387"
+    },
+    {
+        "title": "Le pape Fran\u00e7ois a \u00e9t\u00e9 d\u00e9clar\u00e9 hors de danger",
+        "summary": "Le souverain pontife pourrait bient\u00f4t rentrer au Vatican, apr\u00e8s pr\u00e8s d'un mois d'hospitalisation.",
+        "link": "https://www.20min.ch/fr/story/vatican-le-pape-francois-a-ete-declare-hors-de-danger-103299374"
+    },
+    {
+        "title": "La chaleur a fait plus de 3700 morts en France l\u2019\u00e9t\u00e9 pass\u00e9",
+        "summary": "Les trois quarts des d\u00e9c\u00e8s sont des personnes de 75 ans et plus, r\u00e9v\u00e8lent des chiffres publi\u00e9s ce mardi par Sant\u00e9 publique France.",
+        "link": "https://www.20min.ch/fr/story/sante-la-chaleur-a-fait-plus-de-3700-morts-en-france-l-ete-passe-103299334"
+    },
+    {
+        "title": "Sur la sellette, le Premier ministre joue son avenir au Parlement",
+        "summary": "Luis Montenegro, emp\u00eatr\u00e9 dans une affaire de conflit d'int\u00e9r\u00eat pr\u00e9sum\u00e9, pourrait \u00eatre pouss\u00e9 \u00e0 la d\u00e9mission par le Parlement, ce mardi apr\u00e8s-midi.",
+        "link": "https://www.20min.ch/fr/story/portugal-sur-la-sellette-le-premier-ministre-joue-son-avenir-au-parlement-103299343"
     }
 ]
