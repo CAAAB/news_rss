@@ -108,5 +108,55 @@
         "title": "Cyclisme : Pogacar, un ambitieux au pied de Milan-San Remo",
         "summary": "Le ph\u00e9nom\u00e8ne slov\u00e8ne se mesure \u00e0 l\u2019une des rares courses qui lui r\u00e9siste : la \u00abClassicissima\u00bb.",
         "link": "https://www.lefigaro.fr/sports/cyclisme/cyclisme-pogacar-un-ambitieux-au-pied-de-milan-san-remo-20250322"
+    },
+    {
+        "title": "\u00c9tats-Unis : Donald Trump retire \u00e0 Biden, Harris et Blinken leur acc\u00e8s aux informations confidentielles",
+        "summary": "Habituellement, les anciens pr\u00e9sidents am\u00e9ricains et responsables en mati\u00e8re de s\u00e9curit\u00e9 nationale conservent un acc\u00e8s aux informations sensibles. D\u00e9but f\u00e9vrier, le r\u00e9publicain avait annonc\u00e9 cette mesure, affirmant l\u2019avoir prise car Joe Biden en avait fait de m\u00eame pour lui en 2021.",
+        "link": "https://www.lefigaro.fr/international/etats-unis-donald-trump-retire-a-biden-harris-et-blinken-leur-acces-aux-informations-confidentielles-20250322"
+    },
+    {
+        "title": "\u00c9tats-Unis : Donald Trump \u00abveut \u00e9tablir une relation de confiance\u00bb avec l'Iran, selon son \u00e9missaire",
+        "summary": "D\u00e9but mars, le pr\u00e9sident am\u00e9ricain a r\u00e9v\u00e9l\u00e9 avoir envoy\u00e9 une lettre \u00e0 l\u2019Iran pour lui proposer de reprendre les n\u00e9gociations sur le nucl\u00e9aire sous peine d\u2019action militaire. T\u00e9h\u00e9ran compte r\u00e9pondre \u00abdans les prochains jours\u00bb.",
+        "link": "https://www.lefigaro.fr/international/etats-unis-donald-trump-veut-etablir-une-relation-de-confiance-avec-l-iran-selon-son-emissaire-20250322"
+    },
+    {
+        "title": "\u00c0 moins d\u2019un an des municipales, les partis face \u00e0 la grande crise des vocations",
+        "summary": "D\u00c9CRYPTAGE - Dans un contexte de d\u00e9missions et de burn-out en s\u00e9rie chez les \u00e9lus locaux, les partis se mettent tant bien que mal en ordre de marche.",
+        "link": "https://www.lefigaro.fr/politique/a-moins-d-un-an-des-municipales-les-partis-face-a-la-grande-crise-des-vocations-20250322"
+    },
+    {
+        "title": "George Foreman, l\u00e9gende am\u00e9ricaine de la boxe, battu par Mohamed Ali, est mort \u00e0 76 ans",
+        "summary": "Champion olympique en 1968 et champion du monde en 1973 et 1994, le sportif originaire de Houston avait \u00e9t\u00e9 battu par Mohamed Ali en 1974 \u00e0 Kinshasa lors du \u00abcombat du si\u00e8cle\u00bb.",
+        "link": "https://www.lefigaro.fr/sports/boxe-george-foreman-legende-des-poids-lourds-est-mort-a-76-ans-20250322"
+    },
+    {
+        "title": "Nicolas Ungemuth: \u00abParis est woke ? Pas au-del\u00e0 du 4e arrondissement\u00bb",
+        "summary": "HUMEUR - La phrase est de David Belliard, adjoint d\u2019Anne Hidalgo. Voici une caract\u00e9ristique de la sottise : estimer que le monde est tel qu\u2019on le pense, et l\u2019ass\u00e9ner avec beaucoup d\u2019aplomb.",
+        "link": "https://www.lefigaro.fr/vox/politique/nicolas-ungemuth-paris-est-woke-pas-au-dela-du-4e-arrondissement-20250322"
+    },
+    {
+        "title": "Quand les projets immobiliers virent au cauchemar",
+        "summary": "Vices cach\u00e9s, histoires douloureuses, bourbiers juridiques... certaines transactions a priori banale embarquent les protagonistes dans des histoires sinistres. La preuve dans un livre r\u00e9cemment publi\u00e9.",
+        "link": "https://immobilier.lefigaro.fr/article/quand-les-projets-immobiliers-virent-au-cauchemar-20250322"
+    },
+    {
+        "title": "Les derniers prix immobiliers en \u00cele-de-France: un fr\u00e9missement encore fragile",
+        "summary": "ANALYSE - Si depuis la fin de l\u2019ann\u00e9e 2024 les transactions reprennent gr\u00e2ce \u00e0 la baisse des taux conjugu\u00e9e \u00e0 celle des prix, les professionnels de l\u2019immobilier restent prudents sur l\u2019avenir du march\u00e9.",
+        "link": "https://www.lefigaro.fr/finances-perso/les-derniers-prix-immobiliers-en-ile-de-france-un-fremissement-encore-fragile-20250322"
+    },
+    {
+        "title": "Expo, ap\u00e9ro, dodo: \u00e0 Menton, un week-end entre citrons et jardins",
+        "summary": "GUIDE - Cet ultime bout de France, coinc\u00e9 entre le rocher de Monaco et la fronti\u00e8re italienne, multiplie de nouvelles belles adresses. S\u00e9duite, \u200aune client\u00e8le plus jeune et internationale afflue.",
+        "link": "https://www.lefigaro.fr/voyages/guides/expo-apero-dodo-a-menton-un-week-end-entre-citrons-et-jardins-20250322"
+    },
+    {
+        "title": "Mon psy est une IA : \u00abL\u2019IA n\u2019est pas notre amie, elle nous r\u00e9pond ce qu\u2019on veut entendre\u00bb",
+        "summary": "Une th\u00e9rapie avec ChatGPT ? Si la demande d\u2019aides sans interaction humaine est en progression, elle interroge praticiens et patients. T\u00e9moignages et paroles d\u2019experts.",
+        "link": "https://madame.lefigaro.fr/bien-etre/psycho/mon-psy-est-une-ia-l-ia-n-est-pas-notre-amie-elle-nous-repond-ce-qu-on-veut-entendre-20250322"
+    },
+    {
+        "title": "Taylor Sheridan, le sc\u00e9nariste pourfendeur du wokisme qui a conquis l\u2019Am\u00e9rique",
+        "summary": "PORTRAIT - En refusant de s\u2019incliner devant les diktats des obsessions identitaires de son \u00e9poque et en s\u2019attachant \u00e0 raconter une Am\u00e9rique enracin\u00e9e dans des traditions m\u00e9pris\u00e9es par les \u00e9lites, ce cow-boy r\u00e9alisateur de la s\u00e9rie Yellowstone a s\u00e9duit des dizaines de millions de spectateurs tout en \u00e9tant boud\u00e9 par l\u2019intelligentsia culturelle.",
+        "link": "https://www.lefigaro.fr/international/taylor-sheridan-le-scenariste-pourfendeur-du-wokisme-qui-a-conquis-l-amerique-20250322"
     }
 ]
