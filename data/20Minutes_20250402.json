@@ -1,1 +1,597 @@
-[]
+[
+    {
+        "title": "Une terrasse flottante pourrait voir le jour cet \u00e9t\u00e9 dans le lac",
+        "summary": "Cette plateforme, situ\u00e9e au large de la Perle du lac, accueillerait une piscine et un bar. Des installations similaires ont cartonn\u00e9 \u00e0 Lutry et Montreux.",
+        "link": "https://www.20min.ch/fr/story/geneve-une-terrasse-flottante-pourrait-voir-le-jour-cet-ete-dans-le-lac-103315249"
+    },
+    {
+        "title": "Au bout de la nuit, Ajoie perd l'acte I face \u00e0 Vi\u00e8ge",
+        "summary": "Une r\u00e9ussite de Jacob Nilsson \u00e0 la 101e minute a permis aux Valaisans de prendre l\u2019avantage dans le barrage qui les oppose au HC Ajoie (2-3 ap).",
+        "link": "https://www.20min.ch/fr/story/hockey-promotionrelegation-suivez-en-direct-l-acte-i-entre-ajoie-et-viege-103315800"
+    },
+    {
+        "title": "Un \u00e9lu d\u00e9mocrate bat le record du plus long discours au S\u00e9nat",
+        "summary": "Le s\u00e9nateur d\u00e9mocrate Cory Booker a parl\u00e9 pendant plus de 24 heures au S\u00e9nat am\u00e9ricain, battant un record datant de 1957.",
+        "link": "https://www.20min.ch/fr/story/etats-unis-un-elu-democrate-bat-le-record-du-plus-long-discours-au-senat-103316264"
+    },
+    {
+        "title": "Il chute de plusieurs m\u00e8tres avec sa voiture",
+        "summary": "Mardi apr\u00e8s-midi, un conducteur a \u00e9t\u00e9 bless\u00e9 apr\u00e8s avoir effectu\u00e9 une marche arri\u00e8re qui s'est mal termin\u00e9e. Il a \u00e9t\u00e9 h\u00e9liport\u00e9 \u00e0 l'h\u00f4pital par la Rega.",
+        "link": "https://www.20min.ch/fr/story/jura-il-chute-de-plusieurs-metres-avec-sa-voiture-103316008"
+    },
+    {
+        "title": "Lausanne bat Fribourg et \u00e9galise dans la demi-finale romande",
+        "summary": "Les Lions se sont impos\u00e9s contre les Dragons (1-0) et reviennent \u00e0 1-1 dans la s\u00e9rie. Ken J\u00e4ger a inscrit le seul but de la rencontre. Gott\u00e9ron a perdu Lucas Wallmark.",
+        "link": "https://www.20min.ch/fr/story/national-league-lausanne-se-rend-a-fribourg-pour-l-acte-ii-103315527"
+    },
+    {
+        "title": "Darius Rochebin recadre un d\u00e9put\u00e9 RN trop virulent",
+        "summary": "Un vif \u00e9change entre Julien Odoul et Patrick Klugman a \u00e9clat\u00e9 sur le plateau de LCI. Darius Rochebin est intervenu.\n(fch)",
+        "link": "https://www.20min.ch/fr/video/vous-fermez-la-darius-rochebin-recadre-un-depute-rn-trop-virulent-103315864"
+    },
+    {
+        "title": "\u00abJ'ai fait le choix de confier cette affaire \u00e0 la justice\u00bb",
+        "summary": "Aqababe porte de lourdes accusations contre Marwa Meazka. Elle ne lui a pas directement directement r\u00e9pondu mais a annonc\u00e9 avoir saisi la justice.",
+        "link": "https://www.20min.ch/fr/story/marwa-merazka-j-ai-fait-le-choix-de-confier-cette-affaire-a-la-justice-103315476"
+    },
+    {
+        "title": "La Chine lance de nouvelles man\u0153uvres militaires pr\u00e8s de Ta\u00efwan",
+        "summary": "Pour le deuxi\u00e8me jour d\u2019affil\u00e9e, l\u2019arm\u00e9e chinoise a lanc\u00e9 un nouvel exercice militaire de grande ampleur dans le d\u00e9troit de Ta\u00efwan.",
+        "link": "https://www.20min.ch/fr/story/asie-la-chine-lance-de-nouvelles-manoeuvres-militaires-pres-de-taiwan-103316266"
+    },
+    {
+        "title": "Lausanne a tranch\u00e9: \u00abJe trouve \u00e7a extraordinaire\u00bb",
+        "summary": "Les commer\u00e7ants de Lausanne dont deux tiers de leur assortiment est alimentaire pourront d\u00e9sormais servir leurs clients \u00e0 l\u2019ext\u00e9rieur.",
+        "link": "https://www.20min.ch/fr/video/commerces-un-accord-signe-pour-plus-de-terrasses-a-lausanne-103315805"
+    },
+    {
+        "title": "Camouflet pour Xhaka et le Bayer, sortis par un club de D3",
+        "summary": "Double tenant du titre, le Bayer Leverkusen a \u00e9t\u00e9 \u00e9limin\u00e9 de la Coupe d'Allemagne en demi-finales par Bielefeld (1-2) mardi soir.",
+        "link": "https://www.20min.ch/fr/story/football-camouflet-pour-xhaka-et-le-bayer-sortis-par-un-club-de-d3-103316224"
+    },
+    {
+        "title": "Un \u00e9boueur trouve un nouveau-n\u00e9 vivant au milieu des poubelles",
+        "summary": "Un \u00e9boueur de Rio de Janeiro a v\u00e9cu la surprise de sa vie en d\u00e9couvrant au milieu des poubelles un nouveau-n\u00e9 en vie.",
+        "link": "https://www.20min.ch/fr/story/bresil-un-eboueur-trouve-un-nouveau-ne-vivant-au-milieu-des-poubelles-103316268"
+    },
+    {
+        "title": "En gagnant \u00e0 Servette, Young Boys va pouvoir jouer le titre",
+        "summary": "La victoire 1-0 des Bernois \u00e0 la Praille change la donne. Tout est resserr\u00e9 en haut du classement de Super League.",
+        "link": "https://www.20min.ch/fr/story/football-en-gagnant-a-servette-young-boys-va-pouvoir-jouer-le-titre-103315596"
+    },
+    {
+        "title": "\u00abLe succ\u00e8s n\u2019est pas toujours synonyme de bien-\u00eatre\u00bb",
+        "summary": "La pression \u00e9tait trop forte, la passion avait disparu. Mais la Tessinoise a termin\u00e9 sa saison avec succ\u00e8s. Elle parle de ses doutes et d'argent.",
+        "link": "https://www.20min.ch/fr/story/lara-gut-behrami-le-succes-n-est-pas-toujours-synonyme-de-bien-etre-103315747"
+    },
+    {
+        "title": "Le \u00abtueur au parpaing\u00bb a attaqu\u00e9 un trentenaire \u00e0 Berne",
+        "summary": "Un Camerounais de 27 ans est soup\u00e7onn\u00e9 d'avoir tent\u00e9 de tuer des personnes \u00e0 coups de pierres en Europe. Il a \u00e9galement frapp\u00e9 dans la capitale f\u00e9d\u00e9rale.",
+        "link": "https://www.20min.ch/fr/story/pourquoi-m-a-t-il-fait-ca-le-tueur-au-parpaing-a-attaque-un-trentenaire-a-berne-103315496"
+    },
+    {
+        "title": "Le Pok\u00e9mon Pikachu affronte la police en Turquie?",
+        "summary": "La Turquie conna\u00eet des manifestations depuis l\u2019arrestation du maire d\u2019Istanbul et les opposants se sont trouv\u00e9 un embl\u00e8me inattendu: le Pok\u00e9mon Pikachu.\n(fch)",
+        "link": "https://www.20min.ch/fr/video/tensions-en-turquie-pourquoi-pikachu-est-il-le-symbole-de-l-opposition-103315778"
+    },
+    {
+        "title": "Ashley St. Clair revend sa Tesla et d\u00e9zingue Elon Musk au passage",
+        "summary": "L'influenceuse qui affirme \u00eatre la m\u00e8re du treizi\u00e8me enfant du milliardaire dit avoir d\u00fb revendre sa voiture apr\u00e8s que celui-ci a r\u00e9duit la pension qu'il lui versait.",
+        "link": "https://www.20min.ch/fr/story/new-york-ashley-st-clair-revend-sa-tesla-et-dezingue-elon-musk-au-passage-103315690"
+    },
+    {
+        "title": "Le service des automobiles autorise un fauteuil roulant motoris\u00e9",
+        "summary": "Trois bricoleurs lucernois ont transform\u00e9 un fauteuil de salon en v\u00e9hicule motoris\u00e9 \u2013 et l\u2019ont utilis\u00e9 pour circuler dans les rues de Lucerne pendant le carnaval. La vid\u00e9o est devenue virale.",
+        "link": "https://www.20min.ch/fr/video/lucerne-le-service-des-automobiles-autorise-un-fauteuil-roulant-motorise-103315529"
+    },
+    {
+        "title": "Premi\u00e8re victoire de la saison sur le circuit ATP pour Wawrinka",
+        "summary": "Le Vaudois s'est impos\u00e9 6-4, 6-7, 7-6 face \u00e0 Timofey Skatov (ATP 175) lors du premier tour du tournoi de Bucarest, lundi. Il a d\u00fb batailler pendant plus de trois heures.",
+        "link": "https://www.20min.ch/fr/story/tennis-premiere-victoire-de-la-saison-sur-le-circuit-atp-pour-wawrinka-103315769"
+    },
+    {
+        "title": "Vol d\u2019un fourgon rempli de lingots d\u2019or et d'\u0153uvres d\u2019art",
+        "summary": "Un fourgon d'une entreprise de transport, contenant des millions d'euros en lingots d'or et des \u0153uvres d'art, a \u00e9t\u00e9 vol\u00e9 dimanche dans le Tarn-et-Garonne.",
+        "link": "https://www.20min.ch/fr/story/france-vol-d-un-fourgon-rempli-de-lingots-d-or-et-d-oeuvres-d-art-103315782"
+    },
+    {
+        "title": "Marine Le Pen devrait \u00eatre rejug\u00e9e d\u00e8s l'ann\u00e9e prochaine",
+        "summary": "Face au toll\u00e9 provoqu\u00e9 par la condamnation de la leader d'extr\u00eame droite et le risque qu'elle puisse \u00eatre priv\u00e9e de pr\u00e9sidentielle, la justice serait pr\u00eate \u00e0 acc\u00e9l\u00e9rer.",
+        "link": "https://www.20min.ch/fr/story/en-france-marine-le-pen-devrait-etre-rejugee-l-annee-prochaine-103315816"
+    },
+    {
+        "title": "Marie Denigot est maman",
+        "summary": "L'ancienne danseuse de DALS a annonc\u00e9 la naissance de sa fille sur Instagram. M\u00e8re et fille doivent rester en n\u00e9onatalogie, car le b\u00e9b\u00e9 est n\u00e9 pr\u00e9matur\u00e9.",
+        "link": "https://www.20min.ch/fr/story/carnet-rose-marie-denigot-est-maman-103315584"
+    },
+    {
+        "title": "La Vaudoise Cathia Sch\u00e4r accident\u00e9e sur la route",
+        "summary": "La m\u00e9daill\u00e9e mondiale et europ\u00e9enne est entr\u00e9e en collision avec une voiture. Elle ne sait pas quand elle pourra reprendre l'entra\u00eenement.",
+        "link": "https://www.20min.ch/fr/story/triathlon-la-triathlete-vaudoise-catia-schaer-accidentee-103315686"
+    },
+    {
+        "title": "Katy Perry \u00e0 Crans, Hanouna \u00e0 Cologny et du ski nudiste \u00e0 Villars",
+        "summary": "1er avril oblige, m\u00e9dias et entreprises suisses ont \u00e9labor\u00e9, comme chaque ann\u00e9e, leur propre canular. Floril\u00e8ge.",
+        "link": "https://www.20min.ch/fr/story/poisson-d-avril-katy-perry-a-crans-hanouna-a-cologny-et-du-ski-nudiste-a-villars-103315482"
+    },
+    {
+        "title": "La m\u00e8re d'\u00c9mile trouve le comportement de ses parents \u00abbizarre\u00bb",
+        "summary": "La tension est \u00e0 son comble au sein de la famille du petit gar\u00e7on, depuis le placement en garde \u00e0 vue de quatre de ses proches.",
+        "link": "https://www.20min.ch/fr/story/france-la-mere-d-emile-trouve-le-comportement-de-ses-parents-bizarre-103315495"
+    },
+    {
+        "title": "Camille Lou: \u00abJe r\u00eaverais d'\u00eatre capable d'imiter les gens\u00bb",
+        "summary": "Natacha, la c\u00e9l\u00e8bre h\u00f4tesse de l\u2019air de BD, rena\u00eet au cin\u00e9ma, le 2 avril, sous les traits de Camille Lou. \u00c0 cette occasion, l\u2019actrice s\u2019est pr\u00eat\u00e9e au jeu de notre \u00abinterview iPad\u00bb.",
+        "link": "https://www.20min.ch/fr/video/cinema-camille-lou-je-reverais-d-etre-capable-d-imiter-les-gens-103305406"
+    },
+    {
+        "title": "Des milliers de m\u00e9duses envahissent une plage",
+        "summary": "Samedi, les habitants et les touristes de Majorque, ont contempl\u00e9 une plage sur laquelle des millions de m\u00e9duses s\u2019\u00e9taient \u00e9chou\u00e9es.",
+        "link": "https://www.20min.ch/fr/video/majorque-des-milliers-de-meduses-envahissent-une-plage-103315162"
+    },
+    {
+        "title": "\u00abNous avons entendu une forte d\u00e9tonation, puis le chaos total\u00bb",
+        "summary": "Une fuite sur un gazoduc a d\u00e9clench\u00e9 un immense incendie mardi en Malaisie, for\u00e7ant l\u2019\u00e9vacuation d\u2019habitants pr\u00e8s de Kuala Lumpur. (AP/AFP/chs)",
+        "link": "https://www.20min.ch/fr/video/malaisie-nous-avons-entendu-une-forte-detonation-puis-le-chaos-total-103315464"
+    },
+    {
+        "title": "Une petite erreur, et le voil\u00e0 qui traverse tout un vignoble",
+        "summary": "Samedi, la douzi\u00e8me \u00e9dition du Rebenland Rallye s\u2019est d\u00e9roul\u00e9e \u00e0 Leutschach. L\u2019un des pilotes a rat\u00e9 un virage et a termin\u00e9 sa course dans les vignes.",
+        "link": "https://www.20min.ch/fr/video/autriche-une-petite-erreur-et-le-voila-qui-traverse-tout-un-vignoble-103314987"
+    },
+    {
+        "title": "Lidl d\u00e9bout\u00e9: pas d'ouverture le dimanche dans les petites gares",
+        "summary": "Le Tribunal f\u00e9d\u00e9ral a rejet\u00e9 le recours du discounter, qui voulait ouvrir les dimanches son supermarch\u00e9 de Ch\u00e2tel-Saint-Denis. La gare est trop petite.",
+        "link": "https://www.20min.ch/fr/story/fribourg-lidl-deboute-pas-d-ouverture-le-dimanche-dans-les-petites-gares-103315730"
+    },
+    {
+        "title": "En 2024, 330 places de cr\u00e8ches cr\u00e9\u00e9es dans le canton",
+        "summary": "L'an pass\u00e9, six nouvelles institutions de la petite enfance ont \u00e9t\u00e9 ouvertes au bout du lac. Le taux d'offre en cr\u00e8che y atteint 41 places pour 100 bambins.",
+        "link": "https://www.20min.ch/fr/story/geneve-en-2024-330-places-de-creches-creees-dans-le-canton-103315725"
+    },
+    {
+        "title": "Cong\u00e9s, paternit\u00e9, travail de nuit: les EMS ont une nouvelle CCT",
+        "summary": "Une convention collective de travail ren\u00e9goci\u00e9e entre en vigueur pour les 5000 employ\u00e9s des \u00e9tablissements m\u00e9dicosociaux. Licencier sera plus difficile.",
+        "link": "https://www.20min.ch/fr/story/geneve-conges-paternite-travail-de-nuit-les-ems-ont-une-nouvelle-cct-103315673"
+    },
+    {
+        "title": "Fausse alerte \u00e0 la bombe au gymnase: deux jeunes ont avou\u00e9",
+        "summary": "Une \u00e9l\u00e8ve de l\u2019\u00e9tablissement de Chamblandes, ainsi que l'un de ses amis, ont reconnu \u00eatre \u00e0 l'origine de la fausse alerte \u00e0 la bombe de mercredi dernier.",
+        "link": "https://www.20min.ch/fr/story/pully-vd-fausse-alerte-a-la-bombe-au-gymnase-deux-jeunes-ont-avoue-103315679"
+    },
+    {
+        "title": "L'usure des pneus sur la route contamine nos assiettes",
+        "summary": "Une nouvelle \u00e9tude met en lumi\u00e8re que 90% des microplastiques pr\u00e9sents dans l'environnement sont imputables \u00e0 l'industrie automobile. Une \u00e9lue demande des mesures.",
+        "link": "https://www.20min.ch/fr/story/suisse-l-usure-des-pneus-sur-la-route-contamine-nos-assiettes-103315716"
+    },
+    {
+        "title": "Avoirs russes gel\u00e9s en Suisse: le montant atteint 7,4 milliards",
+        "summary": "La somme est en hausse de 1,6 milliard de francs par rapport \u00e0 l'ann\u00e9e derni\u00e8re. \u00c0 cela s\u2019ajoutent aussi 14 biens immobiliers.",
+        "link": "https://www.20min.ch/fr/story/guerre-en-ukraine-avoirs-russes-geles-en-suisse-le-montant-atteint-74-milliards-103315637"
+    },
+    {
+        "title": "Les tyrans au sein des couples pourraient \u00eatre punis par la loi",
+        "summary": "Une motion a \u00e9t\u00e9 d\u00e9pos\u00e9e au Conseil national pour int\u00e9grer le \u00abcontr\u00f4le coercitif\u00bb dans le Code p\u00e9nal. La Suisse ne serait pas pionni\u00e8re.",
+        "link": "https://www.20min.ch/fr/story/suisse-les-tyrans-au-sein-des-couples-pourraient-etre-punis-par-la-loi-103306085"
+    },
+    {
+        "title": "Pression au lit et peur de l'\u00e9chec: le recours au Viagra explose",
+        "summary": "De plus en plus d'hommes ont recours \u00e0 des stimulants sexuels, y compris \u00e0 titre pr\u00e9ventif. Swissmedic met en garde contre les importations ill\u00e9gales.",
+        "link": "https://www.20min.ch/fr/story/jeunes-suisses-pression-au-lit-et-peur-de-l-echec-le-recours-au-viagra-explose-103315025"
+    },
+    {
+        "title": "Donald Trump d\u00e9p\u00eache un deuxi\u00e8me porte-avions au Moyen-Orient",
+        "summary": "Alors que la tension monte avec les Houthis au Y\u00e9men, un deuxi\u00e8me porte-avions am\u00e9ricain, l\u2019USS Carl Vinson, va rejoindre le Moyen-Orient.",
+        "link": "https://www.20min.ch/fr/story/yemen-donald-trump-depeche-un-deuxieme-porte-avions-au-moyen-orient-103316271"
+    },
+    {
+        "title": "Au Niger, la junte lib\u00e8re d\u2019anciens ministres du r\u00e9gime renvers\u00e9",
+        "summary": "Une cinquantaine de personnes ont \u00e9t\u00e9 lib\u00e9r\u00e9es mardi par la junte, mais le pr\u00e9sident renvers\u00e9 Mohamed Bazoum en 2023 reste lui s\u00e9questr\u00e9.",
+        "link": "https://www.20min.ch/fr/story/afrique-au-niger-la-junte-libere-d-anciens-ministres-du-regime-renverse-103316258"
+    },
+    {
+        "title": "Le patron de Boeing reconna\u00eet de \u00abgraves faux pas\u00bb",
+        "summary": "Le patron de Boeing va reconna\u00eetre mercredi devant le S\u00e9nat am\u00e9ricain que l\u2019avionneur a commis de \u00abgraves faux pas\u00bb ces derni\u00e8res ann\u00e9es.",
+        "link": "https://www.20min.ch/fr/story/aviation-le-patron-de-boeing-reconnait-de-graves-faux-pas-103316256"
+    },
+    {
+        "title": "Isra\u00ebl se f\u00e9licite du \u00abrecord\u00bb de d\u00e9molitions en Cisjordanie",
+        "summary": "Isra\u00ebl m\u00e8ne depuis octobre 2023 une offensive dans la bande de Gaza visant \u00e0 \u00e9radiquer le Hamas. Le conflit s'\u00e9tend dans toute la r\u00e9gion. Suivez les \u00e9v\u00e9nements en direct.",
+        "link": "https://www.20min.ch/fr/story/conflit-au-moyen-orient-israel-se-felicite-du-record-de-demolitions-en-cisjordanie-103021430"
+    },
+    {
+        "title": "Premiers tests \u00e9lectoraux pour Donald Trump et Elon Musk",
+        "summary": "Donald Trump et Elon Musk se sont beaucoup impliqu\u00e9s dans plusieurs \u00e9lections locales dont les r\u00e9sultats seront connus ce mercredi.",
+        "link": "https://www.20min.ch/fr/story/etats-unis-premiers-tests-electoraux-pour-donald-trump-et-elon-musk-103316254"
+    },
+    {
+        "title": "Retour gagnant de Bukayo Saka Premier League",
+        "summary": "Arsenal a battu Fulham (2-1), mardi dans le cadre de la 30e journ\u00e9e du championnat d'Angleterre. L'entr\u00e9e en jeu de son attaquant vedette a \u00e9t\u00e9 assortie d'un but.",
+        "link": "https://www.20min.ch/fr/story/football-retour-gagnant-de-bukayo-saka-premier-league-103316207"
+    },
+    {
+        "title": "L'arbitre met K.-O. un membre du staff qui voulait l'attaquer",
+        "summary": "Une sc\u00e8ne peu conventionnelle s'est d\u00e9roul\u00e9e au P\u00e9rou lors du match entre Sport Huaquilla et Magdalena CEDEC. L'arbitre a d\u00fb montrer ses talents de karat\u00e9ka.",
+        "link": "https://www.20min.ch/fr/story/football-au-perou-l-arbitre-met-k-o-un-membre-du-staff-qui-voulait-l-attaquer-103315310"
+    },
+    {
+        "title": "Ce joueur de Gott\u00e9ron a une barbe rousse que sa copine n\u2019aime pas",
+        "summary": "Daniel Ljunggren est la surprise de ces play-off du c\u00f4t\u00e9 de Fribourg. Le Su\u00e9dois, arriv\u00e9 de Thurgovie, se montre d\u00e9cisif.",
+        "link": "https://www.20min.ch/fr/story/hockey-sur-glace-ce-joueur-de-gotteron-a-une-barbe-rousse-que-sa-copine-n-aime-pas-103315042"
+    },
+    {
+        "title": "Une tourneuse sur bois en qu\u00eate de m\u00e9thodes durables",
+        "summary": "Ramona Hess introduit la durabilit\u00e9 et le design de produits dans l\u2019art traditionnel du tournage sur bois. Visite dans son atelier de Riedtwil (BE).",
+        "link": "https://www.20min.ch/fr/story/savoir-faire-artisanal-suisse-une-tourneuse-sur-bois-en-quete-de-methodes-durables-103313501"
+    },
+    {
+        "title": "Les labels Bio, Fairtrade et Demeter sont-ils durables?",
+        "summary": "Des dizaines de labels promettent une production durable des aliments vendus dans les supermarch\u00e9s. Mais sont-ils vraiment fiables? Labelinfo.ch en a pass\u00e9 41 au crible.",
+        "link": "https://www.20min.ch/fr/story/alimentation-les-labels-bio-fairtrade-et-demeter-sont-ils-durables-103312002"
+    },
+    {
+        "title": "Les PME, moins durables que les grandes entreprises",
+        "summary": "Les PME sont \u00e0 la tra\u00eene en mati\u00e8re de durabilit\u00e9. L\u2019Institut suisse pour les PME et l\u2019entrepreneuriat de l\u2019Universit\u00e9 de Saint-Gall en explique les raisons.",
+        "link": "https://www.20min.ch/fr/story/travail-les-pme-moins-durables-que-les-grandes-entreprises-103309885"
+    },
+    {
+        "title": "Le nombre d'immatriculations de Tesla s'effondre en France",
+        "summary": "Suivez l'actualit\u00e9 \u00e9conomique en Suisse et dans le monde.",
+        "link": "https://www.20min.ch/fr/story/l-eco-en-bref-le-nombre-d-immatriculations-de-tesla-s-effondre-en-france-103021435"
+    },
+    {
+        "title": "Trump signe un d\u00e9cret contre les revendeurs de billets de concert",
+        "summary": "Le pr\u00e9sident am\u00e9ricain veut s\u00e9vir contre les revendeurs de tickets de concerts et de spectacles qui \u00abgangr\u00e8nent\u00bb l\u2019industrie en imposant des \u00abfrais exorbitants\u00bb.",
+        "link": "https://www.20min.ch/fr/story/etats-unis-trump-signe-un-decret-contre-les-revendeurs-de-billets-de-concert-103315698"
+    },
+    {
+        "title": "Nouveaux droits de douane: Trump promet d'\u00eatre \u00absympa\u00bb",
+        "summary": "Le monde est dans l'expectative, alors que le pr\u00e9sident am\u00e9ricain doit annoncer, mercredi, une nouvelle batterie de taxes douani\u00e8res.",
+        "link": "https://www.20min.ch/fr/story/usa-vs-reste-du-monde-nouveaux-droits-de-douane-trump-promet-d-etre-sympa-103315489"
+    },
+    {
+        "title": "Les droits de douane n\u2019inqui\u00e8tent pas la patronne du FMI",
+        "summary": "La directrice g\u00e9n\u00e9rale du FMI ne croit pas que les droits de douane voulus par Donald Trump ne causeront de r\u00e9cession \u00e0 l\u2019\u00e9chelle mondiale.",
+        "link": "https://www.20min.ch/fr/story/guerre-commerciale-les-droits-de-douane-n-inquietent-pas-la-patronne-du-fmi-103315337"
+    },
+    {
+        "title": "Le \u00abmonstre\u00bb cach\u00e9 sous le lit \u00e9tait bien r\u00e9el",
+        "summary": "Une baby-sitter a eu l'effroyable surprise de tomber nez \u00e0 nez avec un intrus, cach\u00e9 sous le lit de l'enfant qu'elle voulait coucher.",
+        "link": "https://www.20min.ch/fr/story/etats-unis-le-monstre-cache-sous-le-lit-etait-bien-reel-103313098"
+    },
+    {
+        "title": "La reine de la photo d'identification judiciaire a encore frapp\u00e9",
+        "summary": "Deux semaines apr\u00e8s avoir pris la pose tout sourire pour un \u00abmugshot\u00bb qui deviendra viral, Lily Stewart a de nouveau \u00e9t\u00e9 arr\u00eat\u00e9e, dimanche.",
+        "link": "https://www.20min.ch/fr/story/etats-unis-la-reine-de-la-photo-d-identification-judiciaire-a-encore-frappe-103310466"
+    },
+    {
+        "title": "Trump fait d\u00e9crocher un portrait de lui qu'il trouve moche",
+        "summary": "Le pr\u00e9sident am\u00e9ricain ne se trouvait pas beau sur un tableau accroch\u00e9 au mur du capitole du Colorado. L'\u0153uvre sera d\u00e9croch\u00e9e.",
+        "link": "https://www.20min.ch/fr/story/etats-unis-trump-fait-decrocher-un-portrait-de-lui-qu-il-trouve-moche-103310589"
+    },
+    {
+        "title": "Sans hommes et sans enfants! Les soir\u00e9es \u00abmamans\u00bb font le buzz",
+        "summary": "Des femmes, m\u00e8res pour la plupart, d\u00e9compressent gr\u00e2ce \u00e0 de nouvelles soir\u00e9es dansantes non mixtes, qui se d\u00e9veloppent notamment en France et en Allemagne.",
+        "link": "https://www.20min.ch/fr/story/societe-sans-hommes-et-sans-enfants-les-soirees-mamans-font-le-buzz-103309059"
+    },
+    {
+        "title": "Apr\u00e8s l'Everest, Inoxtag s'attaque \u00e0 un autre sommet",
+        "summary": "Le youtubeur a annonc\u00e9 sur Instagram qu'il repartait \u00e0 la montagne avec son guide Mathis Dumas. Leur exp\u00e9dition se d\u00e9roulera dans le massif du Mont-Blanc.",
+        "link": "https://www.20min.ch/fr/story/france-apres-l-everest-inoxtag-s-attaque-a-un-autre-sommet-103315501"
+    },
+    {
+        "title": "Il s'installe \u00e0 Gen\u00e8ve, pour \u00abse rapprocher de la RTS\u00bb",
+        "summary": "L'animateur fran\u00e7ais, qui rejoindra le groupe M6 en septembre, est libre de tout contrat d'ici l\u00e0. Selon la rumeur, la t\u00e9l\u00e9vision suisse lui ferait de l'\u0153il.",
+        "link": "https://www.20min.ch/fr/story/poisson-d-avril-cyril-hanouna-il-s-installe-a-geneve-pour-se-rapprocher-de-la-rts-103313513"
+    },
+    {
+        "title": "Le village de Cully ouvre ses portes au jazz mais pas que\u2026",
+        "summary": "Les amateurs de musique s\u2019appr\u00eatent \u00e0 d\u00e9barquer en Lavaux du 4 au 12 avril. Une 42e \u00e9dition marqu\u00e9e par une ouverture progressive aux musiques actuelles.",
+        "link": "https://www.20min.ch/fr/story/cully-jazz-festival-2025-le-village-de-cully-ouvre-ses-portes-au-jazz-mais-pas-que-103314822"
+    },
+    {
+        "title": "Laura Felpin se bat contre un cancer",
+        "summary": "Souffrant d'un cancer de la thyro\u00efde, l'humoriste fran\u00e7aise de 35 ans devra suivre un traitement m\u00e9dicamenteux \u00e0 vie.",
+        "link": "https://www.20min.ch/fr/story/france-laura-felpin-se-bat-contre-un-cancer-103315444"
+    },
+    {
+        "title": "Assurance maladie compl\u00e9mentaire: une sortie de crise se dessine",
+        "summary": "Les m\u00e9decins, cliniques et assureurs se sont r\u00e9unis lundi pour trouver une solution dans cet \u00e9pineux dossier. Les partenaires esp\u00e8rent trouver un accord d'ici \u00e0 15 jours.",
+        "link": "https://www.20min.ch/fr/story/geneve-assurance-maladie-complementaire-une-sortie-de-crise-se-dessine-103315276"
+    },
+    {
+        "title": "Une machine pour tester la sensibilit\u00e9 de la vulve",
+        "summary": "Un projet des HUG est laur\u00e9at du prestigieux Prix Leenaards. Il doit permettre d'am\u00e9liorer la sant\u00e9 intime des femmes victimes de mutilations g\u00e9nitales.",
+        "link": "https://www.20min.ch/fr/story/geneve-une-machine-pour-tester-la-sensibilite-de-la-vulve-103312507"
+    },
+    {
+        "title": "Un implant c\u00e9r\u00e9bral traduit les pens\u00e9es en paroles en temps r\u00e9el",
+        "summary": "Le dispositif, mis au point par des chercheurs californiens, relie des aires du cerveau \u00e0 des ordinateurs. Encore exp\u00e9rimental, il a \u00e9t\u00e9 test\u00e9 avec succ\u00e8s aux \u00c9tats-Unis.",
+        "link": "https://www.20min.ch/fr/story/sante-un-implant-cerebral-traduit-les-pensees-en-paroles-en-temps-reel-103315494"
+    },
+    {
+        "title": "Le groupe Bayer face \u00e0 un enfant expos\u00e9 in utero au glyphosate",
+        "summary": "Th\u00e9o, 17 ans, est n\u00e9 avec de graves malformations. Ses parents portent plainte contre Bayer-Monsanto, accusant le glyphosate d'en \u00eatre responsable.",
+        "link": "https://www.20min.ch/fr/story/france-le-groupe-bayer-face-a-un-enfant-expose-in-utero-au-glyphosate-103315427"
+    },
+    {
+        "title": "Pour savoir si vous \u00eates accro \u00e0 l'actu sant\u00e9, passez notre test",
+        "summary": "Il s'en est pass\u00e9 des choses sur la plan\u00e8te sant\u00e9, cette ann\u00e9e! Nous avons m\u00e9lang\u00e9 des infos r\u00e9elles et d'autres totalement invent\u00e9es. Tentez de d\u00e9m\u00ealer le vrai du faux.",
+        "link": "https://www.20min.ch/fr/story/info-ou-infox-pour-savoir-si-vous-etes-accro-a-l-actu-sante-passez-notre-test-103311747"
+    },
+    {
+        "title": "Young Scooter meurt le jour de ses 39 ans en fuyant la police",
+        "summary": "Figure du rap d'Atlanta, Young Scooter est mort vendredi apr\u00e8s s'\u00eatre gravement bless\u00e9 \u00e0 la jambe. Il tentait d'\u00e9chapper \u00e0 la police.",
+        "link": "https://www.20min.ch/fr/story/rap-young-scooter-meurt-le-jour-de-ses-39-ans-en-fuyant-la-police-103314425"
+    },
+    {
+        "title": "Des chansons de BTS version berceuses bient\u00f4t disponibles",
+        "summary": "Une marque am\u00e9ricaine sp\u00e9cialis\u00e9e dans les musiques pour enfants va sortir un album de reprises du groupe de K-Pop. Les treize chansons seront d\u00e9voil\u00e9es le 4 avril.",
+        "link": "https://www.20min.ch/fr/story/musique-des-chansons-de-bts-version-berceuses-bientot-disponibles-103313465"
+    },
+    {
+        "title": "\u00c9vasion d'Amra: le rappeur Koba LaD pr\u00e9sent\u00e9 \u00e0 la justice",
+        "summary": "Le rappeur, actuellement en d\u00e9tention provisoire en attendant d\u2019\u00eatre jug\u00e9 pour homicide involontaire aggrav\u00e9, est soup\u00e7onn\u00e9 d'avoir un lien avec le narcotrafiquant.",
+        "link": "https://www.20min.ch/fr/story/france-evasion-d-amra-le-rappeur-koba-lad-presente-a-la-justice-103313410"
+    },
+    {
+        "title": "\u00abOn s'attendait pas \u00e0 ce que je sois une pop star super fra\u00eeche\u00bb",
+        "summary": "Sorti le 14 mars, le premier album d\u2019Helena, demi-finaliste de la \u00abStar Ac\u2019\u00bb l\u2019ann\u00e9e derni\u00e8re, est un succ\u00e8s. On d\u00e9cortique avec elle quatre de ses titres.",
+        "link": "https://www.20min.ch/fr/story/hele-cartonne-on-s-attendait-pas-a-ce-que-je-sois-une-pop-star-super-fraiche-103310772"
+    },
+    {
+        "title": "G\u00e9n\u00e9rateur d'images de ChatGPT d\u00e9sormais accessible \u00e0 tous",
+        "summary": "OpenAI avait limit\u00e9, la semaine derni\u00e8re, les nouvelles capacit\u00e9s de g\u00e9n\u00e9ration d'images de son robot conversationnel aux seuls comptes payants.",
+        "link": "https://www.20min.ch/fr/story/ia-generateur-d-images-de-chatgpt-desormais-accessible-a-tous-103315695"
+    },
+    {
+        "title": "\u00abGTA 6\u00bb: l'\u00e9diteur justifie l'absence de nouvelle bande-annonce",
+        "summary": "La maison m\u00e8re du studio Rockstar Games rompt le silence sur l'absence d'images in\u00e9dites du jeu tr\u00e8s attendu, apr\u00e8s une premi\u00e8re bande-annonce publi\u00e9e en d\u00e9cembre 2023.",
+        "link": "https://www.20min.ch/fr/story/jeux-video-gta-6-l-editeur-justifie-l-absence-de-nouvelle-bande-annonce-103315155"
+    },
+    {
+        "title": "Google contre-attaque ChatGPT avec un mod\u00e8le puissant gratuit",
+        "summary": "Le g\u00e9ant du web a rendu accessible son nouveau mod\u00e8le d'IA Gemini\u00a02.5 Pro, \u00e0 tous les utilisateurs sans abonnement.",
+        "link": "https://www.20min.ch/fr/story/ia-google-contre-attaque-chatgpt-avec-un-modele-puissant-gratuit-103315020"
+    },
+    {
+        "title": "WhatsApp: un cercle bleu appara\u00eet, pas moyen de le d\u00e9sactiver",
+        "summary": "Le chatbot Meta AI a commenc\u00e9 \u00e0 \u00eatre d\u00e9ploy\u00e9 sur l'app de messagerie instantan\u00e9e. Son utilisation est soumise \u00e0 d'autres r\u00e8gles de protection des donn\u00e9es.",
+        "link": "https://www.20min.ch/fr/story/ia-whatsapp-un-cercle-bleu-apparait-pas-moyen-de-le-desactiver-103314923"
+    },
+    {
+        "title": "OpenAI va d\u00e9voiler une partie de l\u2019une de ses interfaces d\u2019IA",
+        "summary": "OpenAI a d\u00e9cid\u00e9 de d\u00e9voiler une partie de l\u2019architecture d\u2019un nouveau mod\u00e8le d\u2019IA. Une premi\u00e8re depuis le lancement de ChatGPT.",
+        "link": "https://www.20min.ch/fr/story/intelligence-artificielle-openai-va-devoiler-une-partie-de-l-une-de-ses-interfaces-d-ia-103315347"
+    },
+    {
+        "title": "Premi\u00e8re incursion du chatbot Grok en dehors du r\u00e9seau X",
+        "summary": "L'IA g\u00e9n\u00e9rative d'Elon Musk fait ses premiers pas sur l'app de messagerie instantan\u00e9e Telegram, o\u00f9 elle est accessible aux abonn\u00e9s Premium.",
+        "link": "https://www.20min.ch/fr/story/ia-premiere-incursion-du-chatbot-grok-en-dehors-du-reseau-x-103312649"
+    },
+    {
+        "title": "Images style Ghibli: le message d\u2019alerte de Miyazaki ressurgit",
+        "summary": "La nouvelle version de chatgpt pose d\u00e9j\u00e0 quelques probl\u00e8mes. Un message d\u2019Hayao Miyazaki a ressurgit \u00e0 cette occasion.\n(lch/x)",
+        "link": "https://www.20min.ch/fr/video/chatgpt-images-style-ghibli-le-message-d-alerte-de-miyazaki-ressurgit-103313607"
+    },
+    {
+        "title": "Images fa\u00e7on Ghibli: acc\u00e8s gratuit repouss\u00e9 face au succ\u00e8s",
+        "summary": "OpenAI a report\u00e9, pour les comptes ChatGPT gratuits, l'acc\u00e8s \u00e0 son nouveau g\u00e9n\u00e9rateur d'images en raison de l'engouement suscit\u00e9.",
+        "link": "https://www.20min.ch/fr/story/chatgpt-images-facon-ghibli-acces-gratuit-repousse-face-au-succes-103312693"
+    },
+    {
+        "title": "Le Premier ministre espagnol accuse Milei de \u00abfraude pyramidale\u00bb",
+        "summary": "Pedro S\u00e1nchez a tacl\u00e9 le pr\u00e9sident argentin pour son r\u00f4le dans la d\u00e9b\u00e2cle de la devise num\u00e9rique $LIBRA en f\u00e9vrier.",
+        "link": "https://www.20min.ch/fr/story/cryptomonnaies-le-premier-ministre-espagnol-accuse-milei-de-fraude-pyramidale-103308533"
+    },
+    {
+        "title": "Trump voit les \u00c9tats-Unis en \u00abpionniers\u00bb",
+        "summary": "Donald Trump a dit vouloir positionner le pays en \u00abpionniers\u00bb, lors d\u2019une r\u00e9union vendredi avec des responsables des cryptomonnaies.",
+        "link": "https://www.20min.ch/fr/story/cryptomonnaies-trump-voit-les-etats-unis-en-pionniers-103297117"
+    },
+    {
+        "title": "Trump acte la cr\u00e9ation d\u2019une r\u00e9serve strat\u00e9gique de bitcoins",
+        "summary": "Le bitcoin a plong\u00e9 de 5% apr\u00e8s cette annonce, le march\u00e9 se montrant d\u00e9\u00e7u qu\u2019aucune politique d\u2019achats publics de cryptomonnaies ne soit pr\u00e9vue.",
+        "link": "https://www.20min.ch/fr/story/etats-unis-trump-acte-la-creation-d-une-reserve-strategique-de-bitcoins-103296495"
+    },
+    {
+        "title": "Une annonce de Trump fait grimper en fl\u00e8che plusieurs cryptos",
+        "summary": "Selon le pr\u00e9sident am\u00e9ricain, le bitcoin, l'ethereum, Solana, XRP et Cardano seront inclus dans la future \u00abr\u00e9serve strat\u00e9gique\u00bb am\u00e9ricaine de cryptomonnaies.",
+        "link": "https://www.20min.ch/fr/story/devises-numeriques-une-annonce-de-trump-fait-grimper-en-fleche-plusieurs-cryptos-103293761"
+    },
+    {
+        "title": "Un monde aussi idyllique qu\u2019inhospitalier",
+        "summary": "\u00c0 mi-chemin entre \u00abStalker\u00bb et \u00abFallout\u00bb, \u00abAtomfall\u00bb propose son propre chemin de croix dans un monde postapocalyptique.",
+        "link": "https://www.20min.ch/fr/story/test-un-monde-aussi-idyllique-qu-inhospitalier-103313183"
+    },
+    {
+        "title": "Elon Musk tacle un jeu d'Ubisoft, l'\u00e9diteur r\u00e9plique avec humour",
+        "summary": "La r\u00e9ponse ne s'est pas fait attendre apr\u00e8s une pique adress\u00e9e par le milliardaire contre le jeu vid\u00e9o \u00abAssassin's Creed Shadows\u00bb, sorti le 20\u00a0mars dernier.",
+        "link": "https://www.20min.ch/fr/story/assassin-s-creed-shadows-elon-musk-tacle-un-jeu-d-ubisoft-l-editeur-replique-avec-humour-103311752"
+    },
+    {
+        "title": "\u00abJe fais le pont entre le public et les joueurs\u00bb",
+        "summary": "La pr\u00e9sentatrice e-sport Keltoum \u00abGiniro\u00bb Baddaje, qui anime notamment le LEC, \u00e9voque les facettes de son job et ses meilleurs souvenirs.",
+        "link": "https://www.20min.ch/fr/story/e-sport-je-fais-le-pont-entre-le-public-et-les-joueurs-103310940"
+    },
+    {
+        "title": "Un deuxi\u00e8me prototype de Nintendo PlayStation refait surface",
+        "summary": "L'ancien PDG de Sony, Ken Kutaragi, a r\u00e9v\u00e9l\u00e9 qu'il poss\u00e9dait une unit\u00e9 de la console rare jamais commercialis\u00e9e, dont on pensait jusqu'ici qu'un seul exemplaire existait.",
+        "link": "https://www.20min.ch/fr/story/jeux-video-un-deuxieme-prototype-de-nintendo-playstation-refait-surface-103307673"
+    },
+    {
+        "title": "\u00abCela faisait des ann\u00e9es que je voulais faire rire le public\u00bb",
+        "summary": "\u00c0 l'affiche de \u00abMinecraft\u00bb, d\u00e8s le 2 avril au cin\u00e9ma, Jason Momoa s'est amus\u00e9 comme un petit fou durant le tournage du film adapt\u00e9 du c\u00e9l\u00e8bre jeu vid\u00e9o.",
+        "link": "https://www.20min.ch/fr/story/jason-momoa-cela-faisait-des-annees-que-je-voulais-faire-rire-le-public-103310003"
+    },
+    {
+        "title": "Le r\u00e9alisateur fran\u00e7ais Yves Boisset s'est \u00e9teint",
+        "summary": "Le metteur en sc\u00e8ne, qui a marqu\u00e9 le cin\u00e9ma avec des films comme \u00abDupont Lajoie\u00bb, \u00abL'Attentat\u00bb, \u00abBleu comme l\u2019enfer\u00bb, est mort ce lundi, \u00e0 l'\u00e2ge de 86 ans.",
+        "link": "https://www.20min.ch/fr/story/cinema-le-realisateur-francais-yves-boisset-s-est-eteint-103314942"
+    },
+    {
+        "title": "E.T. l\u2019extraterrestre est \u00e0 vendre",
+        "summary": "Un mod\u00e8le original de E.T. cr\u00e9\u00e9 pour le film culte \u00abE.T., l\u2019extra-terrestre\u00bb de Steven Spielberg est mis aux ench\u00e8res par la maison de vente Sotheby\u2019s.",
+        "link": "https://www.20min.ch/fr/story/cinema-et-l-extraterrestre-est-a-vendre-103313706"
+    },
+    {
+        "title": "\u00ab\u00catre acteur, c'est une vie d'angoiss\u00e9\u00bb",
+        "summary": "\u00c0 l'affiche de \u00abLa Cache\u00bb, actuellement au cin\u00e9ma, William Lebghil a \u00e9t\u00e9 honor\u00e9 de donner la r\u00e9plique \u00e0 Michel Blanc, dans le dernier film dans lequel il a jou\u00e9.",
+        "link": "https://www.20min.ch/fr/story/william-lebghil-etre-acteur-c-est-une-vie-d-angoisse-103311688"
+    },
+    {
+        "title": "Tout le monde ne peut pas avoir un six-pack",
+        "summary": "Certains ont beau faire des abdos \u00e0 fond, ils n'obtiennent pas\u00a0forc\u00e9ment la fameuse tablette de chocolat. Un m\u00e9decin du sport en explique les raisons.",
+        "link": "https://www.20min.ch/fr/story/genetique-tout-le-monde-ne-peut-pas-avoir-un-six-pack-103315549"
+    },
+    {
+        "title": "Course \u00e0 pied: cette technique permet de rester motiv\u00e9",
+        "summary": "Le fartlek apporte de la vari\u00e9t\u00e9 au jogging. Il permet de d\u00e9terminer son propre rythme et d'am\u00e9liorer son endurance.",
+        "link": "https://www.20min.ch/fr/story/si-vous-n-aimez-pas-le-sport-course-a-pied-cette-technique-permet-de-rester-motive-103313547"
+    },
+    {
+        "title": "Cinq erreurs courantes commises par les porteurs de lentilles",
+        "summary": "Si vous portez des lentilles de contact tous les jours, faites attention! Une optom\u00e9triste nous indique cinq erreurs fr\u00e9quentes \u00e0 ne pas commettre.",
+        "link": "https://www.20min.ch/fr/story/sante-oculaire-5-erreurs-courantes-commises-par-les-porteurs-de-lentilles-103313317"
+    },
+    {
+        "title": "Qui a le langage le plus cru au lit, les hommes ou les femmes?",
+        "summary": "Selon un sondage, les hommes sont les plus friands du \u00abdirty talk\u00bb, alors que les femmes l\u2019associent souvent \u00e0 la soumission.",
+        "link": "https://www.20min.ch/fr/story/sexualite-qui-a-le-langage-le-plus-cru-au-lit-les-hommes-ou-les-femmes-103313256"
+    },
+    {
+        "title": "Gen\u00e8ve: les nouveaut\u00e9s 2025 des horlogers suisses",
+        "summary": "La montre est un accessoire de mode. Les cr\u00e9ations pr\u00e9sent\u00e9es cette semaine au salon Watches and Wonders \u00e0 Gen\u00e8ve d\u00e9finissent les tendances actuelles.",
+        "link": "https://www.20min.ch/fr/story/salon-watches-and-wonders-geneve-les-nouveautes-2025-presentees-par-les-horlogers-suisses-103315195"
+    },
+    {
+        "title": "Le style de la g\u00e9n\u00e9ration Z d\u00e9cri\u00e9 sur les r\u00e9seaux sociaux",
+        "summary": "Sur TikTok, les tenues de la g\u00e9n\u00e9ration Z sont critiqu\u00e9es pour \u00eatre trop uniformes. L'association veste en cuir, top et jean est per\u00e7ue comme un manque de personnalit\u00e9.",
+        "link": "https://www.20min.ch/fr/story/codes-vestimentaires-le-style-de-la-generation-z-decrie-sur-les-reseaux-sociaux-103312456"
+    },
+    {
+        "title": "Les couleurs tendance \u00e0 adopter au printemps et en \u00e9t\u00e9",
+        "summary": "Le mocha mousse, le rose tendre, le rouge tomate et le vert strident sont les nuances qu'on voit partout.",
+        "link": "https://www.20min.ch/fr/story/mode-les-couleurs-tendance-a-adopter-au-printemps-et-en-ete-103296286"
+    },
+    {
+        "title": "Cinq looks qui retracent l'histoire de Donatella Versace",
+        "summary": "Donatella Versace c\u00e8de son poste de directrice artistique, apr\u00e8s 28 ans de r\u00e8gne. Retour en images sur les looks qui ont fa\u00e7onn\u00e9 l'histoire d'une reine de la mode.",
+        "link": "https://www.20min.ch/fr/story/legende-de-la-mode-5-looks-qui-retracent-l-histoire-de-donatella-versace-103301340"
+    },
+    {
+        "title": "Le tourisme cause la crise du logement: Majorque appelle \u00e0 l'aide",
+        "summary": "Dans une lettre ouverte adress\u00e9e au gouvernement espagnol, des agents immobiliers revendiquent le droit aux logements d\u00e9cents pour les habitants des Bal\u00e9ares.",
+        "link": "https://www.20min.ch/fr/story/espagne-le-tourisme-cause-la-crise-du-logement-majorque-appelle-a-l-aide-103310722"
+    },
+    {
+        "title": "Sri Lanka: un s\u00e9jour enchanteur au bord du lac de Kandalama",
+        "summary": "Au c\u0153ur de l'\u00eele, ce r\u00e9servoir d'eau sert de refuge aux voyageurs en qu\u00eate de s\u00e9r\u00e9nit\u00e9. Un lieu magique o\u00f9 la nature luxuriante rencontre la culture ancestrale.",
+        "link": "https://www.20min.ch/fr/story/vacances-en-asie-sri-lanka-voyage-enchanteur-au-bord-du-lac-de-kandalama-103308452"
+    },
+    {
+        "title": "Voyage dans un train sri-lankais au milieu des plantations de th\u00e9",
+        "summary": "Touristes et population locale embarquent dans l'Udarata Menike. Ce train mythique serpente \u00e0 travers les spectaculaires montagnes du Sri Lanka.",
+        "link": "https://www.20min.ch/fr/story/vacances-en-asie-voyage-dans-un-train-sri-lankais-au-milieu-des-plantations-de-the-103308482"
+    },
+    {
+        "title": "Avion: le moment opportun pour r\u00e9server un vol au meilleur prix",
+        "summary": "Une grande agence de voyage active sur internet indique les heures, les jours et les mois id\u00e9aux pour acheter le billet d'avion le moins cher.",
+        "link": "https://www.20min.ch/fr/story/faire-des-economies-avion-le-moment-opportun-pour-reserver-un-vol-au-meilleur-prix-103307834"
+    },
+    {
+        "title": "Dix secondes suffisent pour r\u00e9aliser cette coiffure \u00e0 la mode",
+        "summary": "La queue de cheval l\u00e2che, appel\u00e9e \u00abdrop pony\u00bb est la coiffure z\u00e9ro effort la plus tendance. Malheureusement, elle ne convient pas \u00e0 tous les types de cheveux.",
+        "link": "https://www.20min.ch/fr/story/coiffure-tendance-dix-secondes-suffisent-pour-la-realiser-103312712"
+    },
+    {
+        "title": "Le blond Barbie c\u00e8de sa place au blond p\u00e2le",
+        "summary": "Les cheveux blond platine sont pass\u00e9s de mode. La tendance du \u00abblond\u00e2tre\u00bb, \u00e0 mi-chemin entre le blond et le brun, s'impose comme la couleur du moment.",
+        "link": "https://www.20min.ch/fr/story/couleur-de-cheveux-le-blond-barbie-cede-sa-place-au-blond-pale-103307109"
+    },
+    {
+        "title": "Cette alternative au fluor ne tient pas forc\u00e9ment ses promesses",
+        "summary": "L'hydroxyapatite (HAP) est pr\u00e9sent\u00e9e comme une alternative au fluorure pour prot\u00e9ger les dents des caries. Une dentiste met en garde face \u00e0 cette substance.",
+        "link": "https://www.20min.ch/fr/story/soins-dentaires-l-hydroxyapatite-est-elle-une-alternative-fiable-au-fluorure-103306146"
+    },
+    {
+        "title": "Tout le monde veut savoir comment r\u00e9aliser cette coiffure",
+        "summary": "Une vid\u00e9o dans laquelle une jeune femme r\u00e9alise une coiffure torsad\u00e9e, en quelques secondes, totalise des millions de vues. Nous avons tent\u00e9 de reproduire la technique.",
+        "link": "https://www.20min.ch/fr/story/tresse-a-une-main-tout-le-monde-veut-savoir-comment-realiser-cette-coiffure-103302164"
+    },
+    {
+        "title": "Quand le d\u00e9sordre rend \u00abaveugle\u00bb",
+        "summary": "Lorsque le d\u00e9sordre est install\u00e9 depuis longtemps, le cerveau finit par l'occulter. Un ph\u00e9nom\u00e8ne appel\u00e9 \u00abjunk blindness\u00bb.",
+        "link": "https://www.20min.ch/fr/story/grand-menage-de-printemps-le-desordre-vous-rend-il-aveugle-103307631"
+    },
+    {
+        "title": "Des gratte-ciel incroyables poussent \u00e0 Tirana",
+        "summary": "Des architectes \u00e9trangers de renom construisent des immeubles dans la capitale albanaise. Elle veut redorer son blason pour attirer des touristes et des investisseurs.",
+        "link": "https://www.20min.ch/fr/story/entre-promotion-et-corruption-voila-pourquoi-il-y-a-tant-de-gratte-ciel-remarquables-a-tirana-103312486"
+    },
+    {
+        "title": "Ils assument leur d\u00e9sordre et le montrent sur les r\u00e9seaux sociaux",
+        "summary": "Le \u00abNormal House Tour\u00bb est la tendance qui consiste \u00e0 prendre le contrepied des photos l\u00e9ch\u00e9es qui pullulent sur les r\u00e9seaux sociaux et dans les magazines.",
+        "link": "https://www.20min.ch/fr/story/privilegier-la-realite-ils-assument-leur-desordre-et-le-montrent-sur-les-reseaux-sociaux-103310833"
+    },
+    {
+        "title": "Savoir ranger sa chambre pour bien dormir: les conseils des pros",
+        "summary": "La cr\u00e9ation d'un espace harmonieux et fonctionnel favorise un sommeil r\u00e9parateur. Une home organizer et le n\u00b01 mondial de l'ameublement proposent des solutions.",
+        "link": "https://www.20min.ch/fr/story/bien-etre-savoir-ranger-sa-chambre-pour-bien-dormir-les-conseils-des-pros-103300503"
+    },
+    {
+        "title": "L'asperge: elle sent fort, mais pas chez tous",
+        "summary": "La saison des asperges va bient\u00f4t commencer: l'occasion de pr\u00e9senter quelques faits surprenants sur ce l\u00e9gume tr\u00e8s appr\u00e9ci\u00e9, sauf par les spargarophobes.",
+        "link": "https://www.20min.ch/fr/story/saison-des-asperges-l-asperge-elle-sent-fort-mais-pas-chez-tous-103314925"
+    },
+    {
+        "title": "Ce yogourt \u00e0 35 francs se vend comme des petits pains",
+        "summary": "Le yogourt de la marque Coconut Cult est c\u00e9l\u00e9br\u00e9 pour ses nombreux bienfaits suppos\u00e9s pour la sant\u00e9. Mais peut-il vraiment faire autant d'effet?",
+        "link": "https://www.20min.ch/fr/story/coconut-cult-ce-yaourt-a-35-francs-fait-un-carton-103306861"
+    },
+    {
+        "title": "\u00c0 quelle heure arriver en tant qu'invit\u00e9?",
+        "summary": "La ponctualit\u00e9 est un sujet de controverse. Un expert recommande de se pr\u00e9senter chez ses h\u00f4tes un quart d'heure apr\u00e8s l'heure convenue.",
+        "link": "https://www.20min.ch/fr/story/bonnes-manieres-a-quelle-heure-arriver-en-tant-qu-invite-103305391"
+    },
+    {
+        "title": "Erreurs fr\u00e9quentes \u00e0 \u00e9viter quand on cong\u00e8le des fruits",
+        "summary": "Les fruits surgel\u00e9s sont tr\u00e8s pratiques. Mais pour bien les pr\u00e9parer et les savourer, il faut respecter quelques r\u00e8gles.",
+        "link": "https://www.20min.ch/fr/story/congelation-erreurs-frequentes-a-eviter-quand-on-congele-des-fruits-103299564"
+    },
+    {
+        "title": "La vid\u00e9o d'une cam\u00e9ra embarqu\u00e9e peut-elle servir de preuve?",
+        "summary": "On dit souvent que les dashcams sont interdites et que les vid\u00e9os de cam\u00e9ras embarqu\u00e9es ne constituent pas une preuve recevable par la justice. Qu'en est-il vraiment?",
+        "link": "https://www.20min.ch/fr/story/justice-la-video-d-une-camera-embarquee-peut-elle-servir-de-preuve-103312538"
+    },
+    {
+        "title": "Faut-il syst\u00e9matiquement appeler la police en cas d'accident?",
+        "summary": "En cas de carambolage en ville, il n'est g\u00e9n\u00e9ralement pas n\u00e9cessaire d'appeler la police. Dans certains cas, en revanche, il est conseill\u00e9, voire obligatoire de le faire.",
+        "link": "https://www.20min.ch/fr/story/accident-de-la-route-faut-il-systematiquement-appeler-la-police-en-cas-d-accident-103306773"
+    },
+    {
+        "title": "Il a fait fortune en investissant dans l'achat de 240 Land Rover",
+        "summary": "Il y a dix ans, Charles Fawcett\u00a0a command\u00e9 plus de 200 Land Rover Defender, avant l'arr\u00eat de la production du 4x4 britannique. Son investissement s'est av\u00e9r\u00e9 rentable.",
+        "link": "https://www.20min.ch/fr/story/angleterre-il-a-fait-fortune-en-investissant-dans-l-achat-de-240-land-rover-103305120"
+    },
+    {
+        "title": "BYD d\u00e9fie Tesla avec un syst\u00e8me de recharge ultrarapide",
+        "summary": "Appel\u00e9 \u00abSuper e-Platform\u00bb, le nouveau syst\u00e8me de recharge permet aux voitures de r\u00e9cup\u00e9rer jusqu\u2019\u00e0 470\u00a0kilom\u00e8tres d\u2019autonomie en seulement cinq minutes.",
+        "link": "https://www.20min.ch/fr/story/voitures-electriques-byd-defie-tesla-avec-un-systeme-de-recharge-ultra-rapide-103305339"
+    },
+    {
+        "title": "Gagne tes billets pour le concert de Ad\u00e8le Castillon aux Docks",
+        "summary": "Tente ta chance et gagne peut-\u00eatre tes billets pour le concert de Ad\u00e8le Castillon qui aura lieu le 26 avril aux Docks \u00e0 Lausanne.",
+        "link": "https://www.20min.ch/fr/story/concours-gagne-tes-billets-pour-le-concert-de-adele-castillon-aux-docks-103304351"
+    },
+    {
+        "title": "Gagne tes billets pour le concert de Kyo",
+        "summary": "Tente ta chance et remportes peut-\u00eatre tes places pour le concert de Kyo qui aura lieu le 4 juin \u00e0 l'Arena de Gen\u00e8ve.",
+        "link": "https://www.20min.ch/fr/story/concours-gagne-tes-billets-pour-le-concert-de-kyo-103288693"
+    },
+    {
+        "title": "Billets exclusifs pour Jonas Brothers",
+        "summary": "L'offre sera bient\u00f4t pr\u00eate - en attendant, consulte nos autres actions!",
+        "link": "https://www.20min.ch/fr/story/coming-soon-article-two-776800463199"
+    }
+]
